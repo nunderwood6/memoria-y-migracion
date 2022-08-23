@@ -1,0 +1,466 @@
+:skip
+Instructions - read these first
+
+This file is written in ArchieML. You may also format text using Commonmark to add *italics*, **bold** or [links](https://npr.org). Generally, it's structured as key: text. The key should be all lowercase.
+
+If your text has multiple lines in it (as this instruction section does), you can write it after the key, but then use :end to signal the end of the section. 
+
+Lists are delimited with [brackets], and subsections of the document are prefaced with {mustaches}.
+
+"Parece que estamos regresando a la década de las ochentas ... [la corrupción] es la causa de gran parte de la pobreza y la violencia. No se han completado proyectos en nuestra comunidad.”
+
+—Miguel Angel Manuel Alvarado, autoridad ancestral Achí Maya de  Rabinal
+
+
+
+
+
+
+
+
+
+
+
+:endskip
+
+{intro}
+
+hed: Memoria y migración
+subhed: Las tierras y los derechos de los pueblos indígenas en Guatemala han sido pisoteados durante mucho tiempo por una pequeña élite, corporaciones extranjeras y el gobierno de los Estados Unidos. Hasta que se rompa el ciclo de invasión y explotación, la gente seguirá buscando una vida digna en otro lugar–y morirá por atreverse a hacerlo.
+credit: Por Nick Underwood | Agosto de 2022
+
+[sequence]
+
+id: chapter1
+type: chapter
+hed: Capítulo 1: En busca de vida
+text: “¿Por qué se van los niños de mi país? ... salen todos los días por cualquier frontera que les permita escapar, respirar y salir de las miserias en las que nacieron, en las que viven sus padres y abuelos, quienes a pesar de trabajar en las fincas o talleres, en ciudades o comunidades no han podido romper el ciclo de la pobreza. Se van porque quieren romper la maldición que les arrebata, cuando nacen, todos sus sueños ”.
+
+—<a href="https://elperiodico.com.gt/opiniones/opinion/2018/06/23/por-que-se-marchan-los-ninos-de-mi-pais/">Irma Alicia Velásquez Nimatuj, antropóloga Maya K’iche’</a>
+:end
+
+id: claudia
+type: ai2html
+include: claudia
+text: <span class="firstCharacter">C</span>laudia Patricia Gómez González creció en La Unión Los Mendoza, un pequeño pueblo enclavado en el altiplano occidental de Guatemala, territorio ancestral del pueblo Maya Mam.
+ 
+El 7 de mayo de 2018 abandonó la casa que había conocido toda la vida.
+:end
+
+id: ostuncalco
+image: ostuncalco.jpg
+text: Claudia era inteligente y motivada, y había planeado trabajar como contadora después de graduarse de la escuela secundaria. Pero todos los trabajos que solicitó requerían un título universitario, algo que no tenía y no podía pagar.
+credit: <a href="https://www.flickr.com/photos/92899514@N04/48244367906/in/photolist-2gvbZLE-o3o4em-2gvbXSu-LhmUb-gQH56F-8JFHcC-LhpSz-w7EweM-ofztpq-LhBFD-LhpTe-vamQH8-NxK5D-LhpSi-LhBFK-LhvUC-LhBFi-8JFFy9-AKoooy-LhmUE-8JFKuY-8JCCzZ-LhmTh-LhpRZ-LhmUw-LhpSc-LhmT5-8JCF8D-gQHScg-8JCGPx-2dxpWNr-2crt7X5-2aLQL2b-QwYbN3-2aLQJJm-2dsY8xE-2dxpXra-2c9KAXp-2c9KFBe-2dxpXNc-2c9KxmM-2ejs17s-8JFJz1-LhmSy-gQGd5X-8JCETB-8JFHN1-8JCDjZ-8JCGrt-LhvUQ">PNUD Guatemala/ Fernanda Zelada</a>
+
+id: market
+image: market.jpg
+text: Como tantas otras mujeres indígenas en su país, Claudia encontró sus oportunidades limitadas por sus circunstancias. Perdiendo la esperanza de encontrar trabajo, pasó sus días tejiendo huipiles para vender en Xela.
+credit: <a href="https://www.flickr.com/photos/erik2481/241647626/in/photolist-nmvqo-sMykr-dGzhe6-a1mudL-4EAAep-92KwLr-d9ykVd-4mkoub-4mgm1F-nmvqQ-92KwA2-92ND4j-92NCSJ-o6iLT-u6DsS-d2hEM-dHGPBJ-dHGPeq-2Rpnk-2mcToRR-sMyTE-sMt5y-95nNVD-sMsVf-95nFDZ-95qKdb-95nKKn-95nLLT-sMyHe-95nHzZ-95nLec-sMrWe-95qKEA-95nJnD-95qJQA-sMxXC-95qQA3-AoJwu8-bE5u4h-sMvsM-bqJnG6-bSZnh4-sMyc1-95nMeT-sMsXb-sMy2Y-sMyFn-sMyih-sMyf9-qguXSy">Erik Hungerbuhler</a>
+caption: El bullicioso mercado de Almolonga, en las afueras de Xela.
+
+id: home
+image: san_juan_ostuncalco_reuters.jpg
+text: Con pocas opciones, Claudia llegó a ver la migración a Estados Unidos como su único camino a seguir. “Es un riesgo, pero me estoy consumiendo aquí. Quiero ser alguien," le dijo a sus padres, <a href="https://www.marieclaire.com/politics/a27319518/claudia-gomez-killed-mexico-us-border-by-border-patrol-agent/">según Marie Claire</a>. "No te preocupes, te haré sentir muy orgulloso de mí". Ella se dirigió al norte.
+caption: El pequeño pueblo de La Unión Los Mendoza, donde creció Claudia.
+credit: <a href="https://www.reuters.com/news/picture/guatemalan-family-mourns-accountant-daug-idUSKCN1IT04C">REUTERS/Luis Echeverria</a>
+
+id: border
+image: border-adobe.jpg
+text: Dos semanas después, el 23 de mayo de 2018, Claudia fue asesinada a tiros por un agente de la Patrulla Fronteriza de los Estados Unidos en Rio Bravo, Texas, mientras cruzaba la frontera. Su familia y comunidad quedaron devastadas y sin respuestas, con la Patrulla Fronteriza <a href="https://www.buzzfeednews.com/article/adolfoflores/border-patrol-shooting-immigrant-texas">emitiendo declaraciones contradictorias</a> y negándose a nombrar al agresor.
+
+id: portraits
+type: portrait
+text: La muerte de Claudia no fue una tragedia aislada. Durante el año siguiente a la muerte de Claudia, cinco niños indígenas mayas más de Guatemala perderían la vida bajo la custodia de inmigración de Estados Unidos, víctimas de la indiferencia sistémica y las fronteras militarizadas.
+
+id: distinct-peoples
+type: map-block
+text: La mayor parte de la cobertura de noticias en los Estados Unidos omitió sus identidades indígenas, refiriéndose a ellos solo como “guatemaltecos”. Pero estos seis niños pertenecían a cinco pueblos mayas distintos, los <span class='mam'>Mam</span>, <span class='qeqchi'>Q’eqchi</span>’, <span class='chuj'>Chuj</span>, <span class='chorti'>Ch’orti’</span>, and <span class='achi'>Achi</span>, cada uno con distintos idiomas, territorios e historias. En este mapa, un punto representa diez personas.
+
+id: many-peoples
+type: map-block
+text: En total hay 22 pueblos mayas en Guatemala, así como dos grupos indígenas no mayas, los xinca y garífuna. Si bien el gobierno estima que 6,5 millones de los 15 millones de habitantes del país son indígenas, en general se considera que esto es una subestimación significativa.
+discrete: true
+forward: fadeIndigenous
+backward: fadeFocus
+
+id: indigenous-underestimated
+type: map-block
+text: Los datos oficiales del censo indican que alrededor del 43% de la población es <span class="indigenous" >indígena</span>, ​​mientras que el 56% restante son <span class="ladino">ladino</span>, o personas no indígenas de habla hispana. <span style=" font-weight: bold;">Sin embargo, muchos creen que hasta el 60% de la población es indígena.</span> La incertidumbre de los datos es sintomática de la ausencia casi total de servicios gubernamentales en muchas comunidades indígenas rurales.
+discrete: true
+forward: fadeBinaryLabeled
+backward: fadeIndigenous
+
+id: disaster
+image: queja_volpe_nytimes.jpg
+text: A pesar de los elevados costos y los terribles riesgos del viaje hacia el norte, la migración está generalizada en muchas áreas indígenas, una estrategia de supervivencia ante el desastre y el abandono. Cada año, decenas de miles de personas abandonan sus hogares, impulsadas por la desigualdad estructural arraigada en siglos de exclusión y explotación.
+credit: <a href="https://www.nytimes.com/2020/12/04/world/americas/guatemala-hurricanes-mudslide-migration.html">Daniele Volpe/New York Times</a>
+discrete: true
+forward: fadeBinaryLabeled
+backward: fadeOutTimeline
+
+id: jakelin
+type: ai2html-double
+include: jakelin
+text: <img src="./assets/img/portraits/color/jakelin.jpg">En la región <span class="qeqchi"> Maya Q’eqchi’</span>, la voraz expansión de las plantaciones de aceite de palma ha dejado a muchas comunidades sin suficiente tierra para la agricultura tradicional de subsistencia. <b>Jakelin Caal Maquin</b>, Jakelin Caal Maquin, de ocho años, de San Antonio Secortez, se dirigió al norte con su padre y <a href="https://www.aljazeera.com/news/2018/12/22/guatemalan-family-mourns-jakelin-caal-7-who-died-in-us-custody">murió a causa de una infección bacteriana no tratada bajo custodia estadounidense</a> el 8 de diciembre de 2018.
+text2: Para aquellos que no tienen suficiente tierra, trabajar por salarios de hambre en las plantaciones de palma o emigrar al norte son a menudo las únicas opciones. El padre de Jakelin, Nery, fue <a href="https://www.aljazeera.com/news/2019/2/6/palm-oil-industry-expansion-spurs-guatemala-indigenous-migration">despedido de una plantación de palmeras por solicitar un aumento salarial</a>. Le pagaban solo 65 quetzales ($8.50) por una jornada laboral de 12 horas, menos del salario mínimo legal.
+
+id: felipe
+type: ai2html-double
+include: felipe
+text: <img src="./assets/img/portraits/color/felipe.jpg"><b>Felipe Gómez Alonzo</b>, de ocho años, vino de Yalambojoch, un pequeño pueblo en la región noroeste de <span class="chuj">Maya Chuj</span> con un <a href="https://www.thenation.com/article/archive/border-patrol-guatemala-dictatorship/">historial de violencia estatal y desplazamiento</a>. Con su familia enfrentando una abrumadora deuda, Felipe y su padre se dirigieron a los Estados Unidos con la esperanza de ganar dinero para enviar a casa. Durante el viaje, Felipe se enfermó y <a href="https://www.theguardian.com/world/2018/dec/29/felipe-gomez-alonzo-guatemala-boy-death-us-custody-home-village-mourns">murió de influenza en Nuevo México</a> el 25 de diciembre de 2018.
+text2: Muchos de los adultos en Yalambojoch pasaron años como refugiados en México durante el pico del conflicto armado de Guatemala en la década de 1980, cuando el ejército respaldado por Estados Unidos cometió masacres brutales en toda la región. Hoy, la <a href="https://rightsindevelopment.org/community-voices-ixquisis-guatemala/">criminalización y asesinato de activistas ambientales</a> que se resisten a proyectos mineros e hidroeléctricos ha resucitado el espectro de la guerra.
+
+id: chorti
+type: ai2html-triple
+include: chorti
+text: <img src="./assets/img/portraits/color/juan.jpg">La región oriental de <span class="chorti">Maya Ch’orti</span>’ se encuentra directamente en el Corredor Seco, una franja de América Central donde <a href="https://time.com/5587817/juan-de-leon-gutierrez-guatemala-migrant/">el clima extremo vinculado al cambio climático</a> ha hecho que la agricultura de subsistencia sea cada vez más insostenible. <b>Juan de León Gutiérrez</b> de 16 años, abandonó el pueblo de El Tesoro ante la implacable sequía en abril de 2019 y murió a causa de una infección de los senos nasales no tratada en un centro de detención de El Paso.
+text2: <img src="./assets/img/portraits/color/wilmer.jpg">Apenas unas semanas después, <b>Wilmer Josué Ramírez Vásquez</b>, de 2 años, del pueblo Ch'orti 'de Tituque, <a href="https://pinacnews.com/index.php/2019/06/25/meet-wilmer-he-died-last-month-after-being-apprehended-at-the-border/">murió de neumonía en El Paso</a>. Como muchos de la región, Wilmer padecía desnutrición crónica y su familia no tenía dinero para la atención médica. Cuando cayó enfermo, su madre lo llevó al norte desesperada.
+text3: La exclusión política y social de las comunidades indígenas ha provocado tasas asombrosas de inseguridad alimentaria. Según UNICEF, la tasa de desnutrición crónica de los niños indígenas en Guatemala <a href="https://www.unicefusa.org/sites/default/files/NextGen%20Guatemala%20Proposal.pdf">llega al 80%</a>. Con escaso apoyo del gobierno, muchas familias se arriesgan al peligroso viaje hacia el norte como último recurso.
+
+id: carlos
+type: ai2html-double
+include: carlos
+text: <img src="./assets/img/portraits/color/carlos.jpg">En la región de <span class="achi">Maya Achi</span> al norte de la capital, el acceso desigual a la tierra y las oportunidades ha llevado a muchos a migrar. <b>Carlos Gregorio Hernández Vásquez</b>, un Maya Achi de 16 años, dejó su ciudad natal de San José El Rodeo en mayo de 2019 para mantener a su familia, pero murió de influenza en una celda de detención de la Patrulla Fronteriza donde fue <a href="https://www.propublica.org/article/inside-the-cell-where-a-sick-16-year-old-boy-died-in-border-patrol-care">abandonado sin recibir atención médica</a>.
+text2: La violencia genocida de la década de 1980 dejó cicatrices duraderas aquí, destruyendo organizaciones comunitarias y desplazando a la gente Achí de sus tierras. Hoy, el desarrollo económico neoliberal está dejando <a href="https://progressive.org/latest/corruption-fuels-an-exodus-of-guatemalans-180917/">efectos corrosivos</a> similares, destruyendo ríos y bosques sin beneficiar a las comunidades locales.
+
+id: inequity
+image: banana-adobe.jpg
+text: La juventud indígena de Guatemala se enfrenta a un dilema imposible.
+
+Aquellos que se quedan y luchan por una vida digna en casa enfrentan grandes probabilidades en un país caracterizado por niveles distópicos de desigualdad. Un estudio de 2015 realizado por la firma de investigación WealthX estimó que las 260 personas más ricas de Guatemala tienen <a href="https://www.prensalibre.com/economia/en-guatemala-hay-260-millonarios/">una riqueza combinada de US$30 mil millones</a>, mientras que la mayoría de las personas sobrevive con menos de US$3 por día. Dos tercios de la tierra cultivable son propiedad de solo el 2% de los terratenientes, la mayoría dedicados a exportaciones a gran escala como aceite de palma, caña de azúcar y banano.
+:end
+
+id: workers
+image: farm-workers-adobe.jpg
+text: Por otro lado, la migración significa una separación traumática de la familia y la cultura, y es cada vez más riesgosa. La estrategia militarizada de aplicación de la ley de inmigración de Estados Unidos está <a href="https://www.nytimes.com/interactive/2019/05/29/opinion/migrant-crisis.html">diseñada para matar migrantes</a>, y está funcionando. Cada año cientos mueren cruzando el desierto y miles más desaparecen en México. Quienes llegan a Estados Unidos <a href="https://www.propublica.org/article/inside-the-lives-of-immigrant-teens-working-dangerous-night-shifts-in-suburban-factories">sufren abusos en el lugar de trabajo</a> y viven con el temor constante de ser deportados.
+
+id: protest
+image: protest-flickr.jpg
+text: Sin inmutarse por los riesgos, alrededor del 20% de la población de muchas aldeas indígenas ha emigrado al norte, un testimonio de la gravedad y la intransigencia del racismo estructural en Guatemala. A pesar de las protestas sostenidas de los movimientos indígenas y de la clase trabajadora, el poder y la riqueza siguen concentrados en manos de la élite económica corrupta, que controla el gobierno y permite que las empresas transnacionales operen con impunidad.
+credit: <a href="https://www.flickr.com/photos/cman-af/20933207882/in/photolist-xSjEDq-xC3ji5-xTNiyo-xTNaph-xTN6GY-wXCfzy-xViT3x-wXCrbJ-xTMMBE-xViNo2-xSjRgN-xUDzTT-xC385y-xSjMyh-xC2K9u-xC3uKf-xTLTed-xUCkoH-xUCfhF-xUBX1M-xSinJ5-wXBKD7-xC8Kde-xC241S-xSjchb-xTM6JJ-xC9ijP-xSaMKh-xC6FPV-xC2gA1-xVg4W2-xVhHJz-xShgPw-wXC45E-wXJgn2-wXB56j-xSiv7S-xVgFHx-xC8NFM-xVhroP-xBZRgd-xSiXNN-xUAjve-xVfR5a-xTKwcq-xUxcvt-xUCaRM-xUAqN4-wXJF4F-xBZGvs">Rosendo Castillo Azurdia</a>
+
+id: foreign-policy
+image: palm-actionaid.jpg
+text: Irónicamente, la política exterior de los Estados Unidos ha jugado un papel clave en el mantenimiento de estas relaciones de poder desiguales y en la producción de las mismas "causas fundamentales" de la migración que afirma trabajar para resolver en la actualidad. Lejos de ser un rayo de esperanza, Estados Unidos ha sido durante mucho tiempo un arquitecto del sufrimiento de los indígenas guatemaltecos, que continúan sobreviviendo y resistiendo después de más de 500 años de invasión y explotación cíclica.
+credit: Fabio Erdos/ActionAid
+
+id: chapter2
+type: chapter
+hed: Capítulo 2: Una historia de invasión
+text: “Desde que Alta Verapaz fue poblada solo por la valiente raza Q'eqchi 'hasta este momento ... desde la explotación del látigo del conquistador hasta la infame explotación de los dueños de las plantaciones ... te han quitado tu propiedad, tus libertades , tus derechos ... Los trabajadores de Alta Verapaz son los más explotados de todo el país. La lucha de los reaccionarios, de estos 'amigos del orden' que nos miran con el ceño fruncido en la calle, es imponer este régimen a toda la república. Nosotros, en cambio, queremos destruir este sistema. No es solo la reforma agraria la que resolverá el problema. Necesitamos tratar a los indios con justicia ... con respeto como seres humanos. Te prometemos mejores casas y un mejor salario. Te prometemos un poco más de justicia”.
+
+—<a href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo11643711.html">Jacobo Arbenz, discurso de campaña en Cobán, Alta Verapaz, 1950</a>
+:end
+
+id: colonial
+image: antigua-wikimedia.jpg
+text: <span class="firstCharacter">L</span>a lógica colonial de extracción y crueldad que persiste hoy en Guatemala comenzó en los días de la invasión española, cuando aproximadamente dos tercios de la población maya murieron en la conquista y las epidemias posteriores. Los españoles reclamaron vastas extensiones de tierra e instituyeron un brutal sistema de trabajo forzoso, justificando su violencia con una ideología racista de superioridad criolla.
+caption: Ilustración de la ciudad colonial de Antigua, Guatemala alrededor de 1840.
+credit_special: Ilustración: Frederick Catherwood
+
+id: statue
+image: Statue_of_Tecun_Uman_wikipedia.jpg
+text: Los pueblos mayas resistieron ferozmente, preservando la autonomía y la tenencia de tierras comunales en algunas regiones de las tierras altas. Aún así, al final del período colonial, se establecieron <a href="https://www.routledge.com/The-Battle-For-Guatemala-Rebels-Death-Squads-And-Us-Power/Jonas/p/book/9780813306148">patrones persistentes</a> de explotación en Guatemala: monoexportación, gobierno débil y falta de infraestructura, y la canalización de la riqueza hacia una pequeña oligarquía y extranjeros. 
+caption: Estatua de Tecún Umán, líder maya k'iche' que murió en batalla luchando contra los invasores españoles.
+credit: <a href="https://commons.wikimedia.org/wiki/File:Statue_of_Tecun_Uman_-_Central_Plaza_-_Santa_Cruz_del_Quiche_-_Quiche_-_Guatemala_(15754040660).jpg">Adam Jones</a>
+
+id: independence
+image: nada_que_celebrar.jpg
+text: Para los pueblos indígenas, la independencia de España en 1821 no supuso ningún cambio para mejor. En palabras de miles de personas que protestaron durante la observación del bicentenario en 2021, había “nada que celebrar”. El despojo y la concentración de la riqueza en manos de la pequeña élite solo se aceleraron en las décadas siguientes con el crecimiento de la economía de las plantaciones. 
+caption: Grupos de la sociedad civil protestan por la celebración gubernamental del bicentenario de la independencia de Guatemala.
+credit: <a href="http://noticiascomunicarte.blogspot.com/2021/09/guatemala-un-bicentenario-de-mierda_14.html">Byron Garoz</a>
+
+id: coffee
+image: finca-map.jpg
+text: A medida que la locura por el café y el azúcar se aceleró a fines del siglo XIX, también lo hizo la expropiación de tierras a las comunidades indígenas. En las tierras altas de Mam, las tierras comunales fueron diezmadas y el trabajo forzoso en las plantaciones fue generalizado. Este mapa de 1888 muestra la escala masiva de la economía cafetera en el altiplano, donde casi toda la tierra apta para el café se dividió en plantaciones. 
+
+id: monopolies
+image: Estradacabrerafirmando.jpg
+text: Durante la primera mitad del siglo XX, el gobierno guatemalteco otorgó concesiones masivas al capital extranjero, especialmente a empresas estadounidenses. Los dictadores Manuel Estrada Cabrera (1898-1920) y Jorge Ubico (1931-1944) cedieron tantos monopolios y privilegios que para 1944, <a href="https://utpress.utexas.edu/books/immcia">“las empresas estadounidenses prácticamente dictaban la vida económica de Guatemala”</a>.
+caption: Estrada Cabrera firmando decretos ejecutivos en 1907.
+
+id: united-fruit
+image: united-fruit.jpg
+text:La primera y más importante entre las corporaciones estadounidenses era la United Fruit Company (UFCo), que monopolizaba la producción de banano, controlaba los ferrocarriles y los puertos y poseía gran parte de las mejores tierras del país. A mediados del siglo XX, UFCo poseía el <a href="https://books.google.com/books?id=HPEeDQAAQBAJ&pg=PA45&lpg=PA45&dq=guatemala+Agyeman,+Opoku.+Power,+Powerlessness,+and+Globalization:+Contemporary+Politics+in+the+Global+South&source=bl&ots=BuY4X7EMaG&sig=ACfU3U2WUsN_OxaS93iRArTWXRvukqvYQQ&hl=en&sa=X&ved=2ahUKEwiIjae3hsn5AhUhjIkEHbL6BIwQ6AF6BAgcEAM#v=onepage&q=guatemala%20Agyeman%2C%20Opoku.%20Power%2C%20Powerlessness%2C%20and%20Globalization%3A%20Contemporary%20Politics%20in%20the%20Global%20South&f=false">42%</a> de la tierra cultivable y reportaba ganancias anuales de más de <a href="https://utpress.utexas.edu/books/immcia">$65 millones</a>, más del doble de los ingresos del gobierno guatemalteco.
+credit: <a href="https://images.hollis.harvard.edu/primo-explore/search?query=any,contains,%22baker%20library%22,AND&query=any,contains,%22united%20fruit%22,AND&tab=default_tab&search_scope=default_scope&sortby=rank&vid=HVD_IMAGES&lang=en_US&mode=advanced&offset=0">Baker Library Historical Collections. Harvard Business School.</a>
+
+id: ubico
+image: ubico.jpg
+text: La represión de la era de las plantaciones alcanzó su punto máximo con el reinado de 14 años de Ubico, quien mantuvo el control con miles de policías secretos que asesinaban y torturaban sistemáticamente a los disidentes. Ubico instituyó un sistema brutal de trabajo forzoso que aseguró a UFCo y a las plantaciones de café un suministro constante de mano de obra barata a pesar de las condiciones de trabajo severas y mal pagadas.
+credit: <a href="https://www.prensalibre.com/revista-d/historia-de-guatemala-jorge-ubico-llega-al-poder-en-1931/">Hemeroteca Nacional de Guatemala, Prensa Libre</a>
+
+id: democratic-spring
+image: student_strike.jpg
+text: Finalmente, en 1944, una huelga estudiantil se convirtió en una revolución popular que derrocó a Ubico y comenzó lo que algunos historiadores han llamado la 'Primavera Democrática'. Durante los siguientes diez años, dominó una frágil democracia representativa y la dominación feudal de los hacendados y las empresas extranjeras fue realmente desafiada por primera vez.
+
+id: arbenz
+image: arbenz.jpg
+text: El presidente Juan José Arévalo (1945-1951) abolió el trabajo forzoso, habilitó las libertades básicas de expresión y prensa y aprobó un código laboral que permitió la organización sindical. Sin embargo, el gobierno de Arévalo limitó los sindicatos de trabajadores rurales y no desafió verdaderamente a los monopolios extranjeros. El presidente Jacobo Árbenz (1951-1954) enfrentó a la oligarquía terrateniente y a las corporaciones de manera más agresiva, sobre todo a través de la reforma agraria de 1952.
+
+id: agrarian-reform
+image: campesino-flickr.jpg
+text: La Ley de Reforma Agraria de 1952 fue diseñada para abordar la barrera más importante y duradera para la igualdad en Guatemala: el acceso a la tierra. La ley permitió la expropiación de tierras en barbecho de los mayores terratenientes y su distribución a los ciudadanos sin tierra. La ley fue apoyada por la mayoría de los pueblos indígenas y de la clase trabajadora, y la pequeña élite la resistió amargamente, que la vio como una amenaza existencial.
+credit: <a href="https://www.flickr.com/photos/tian2992/13974932342/in/photolist-nhVbvm-7z5cmd-EDotfC-71mYi-avZdPz-kMCor-71mUR-4epiCF-2mEYeTf-4nCxMF-6EPtJF-c8tiDA-nRXMTv-2eGCoYE-71mXk-4WW72D-4b5WtQ-57QtWo-2eGCopo-TL6Qm5-TL6QXf-2eGCoAf-gUX7wF-tMSwR-2iQETFZ-TL6QE1-2eGCovA-TL6QAo-TL6QvJ-25hL7yV-TL6Qub-TL6Qrq-2eGCoPb-TL6QRo-2eGCoib-TL6QHC-TL6Qpw-5CbSMY-8xjcZv-GjSf9c-4rkMFz-4KpL62-LQCb7-dWR6Wr-KGdAm-4pcTkK-6SUsy-jNHa7Q-dUWWcp-dwDeko">Sebastian Oliva</a>
+
+id: eisenhower
+image: eisenhower-dulles.jpg
+text: Ningún terrateniente podía perder más que UFCo, que tenía <a href="https://www.routledge.com/The-Battle-For-Guatemala-Rebels-Death-Squads-And-Us-Power/Jonas/p/book/9780813306148">solo el 15%</a> de sus extensos 550,000 acres en producción activa (Jonas, 27). Desde los primeros días de la revolución de 1944, la UFCo y la élite terrateniente habían resentido sus reformas democráticas y planearon su derrocamiento. UFCo, conectado a los niveles más altos de la administración de Eisenhower, finalmente convenció al gobierno de Estados Unidos de derrocar al gobierno de Arbenz en 1954.
+caption: Eisenhower con el secretario de Estado John Foster Dulles, quien trabajó como abogado para la United Fruit Company durante muchos años.
+
+id: armas
+image: armas.jpg
+text: Si bien la administración Eisenhower reclamó públicamente una amenaza comunista como pretexto para el golpe de la CIA, el objetivo real era derrocar a Arbenz a favor de un gobierno represivo que protegería las ganancias de los monopolios estadounidenses. Según los historiadores, <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674019300">"todos los funcionarios de formulación de políticas estadounidenses involucrados en la decisión de derrocar al gobierno guatemalteco, excepto el propio presidente Eisenhower, tenían una conexión familiar o comercial con la United Fruit Company".</a>
+caption:El coronel Carlos Castillo Armas, figura política del golpe de Estado de la CIA, hablando con sus hombres con un arma en el cinturón.
+credit: <a href="https://narratively.com/the-literally-unbelievable-story-of-the-original-fake-news-network-full/">George Silk/The LIFE Picture Collection</a>
+
+id: coup
+image: coup.jpg
+text: La CIA utilizó un ejército mercenario, bombardeos aéreos y un aluvión de guerra psicológica para derrocar a Arbenz e instalar a Carlos Castillo Armas en su lugar. En los meses posteriores al golpe, el gobierno de Estados Unidos abrazó calurosamente a Armas mientras presidía una contrarrevolución sangrienta en la que miles de sindicalistas, campesinos y líderes de la sociedad civil fueron brutalmente asesinados y encarcelados.
+caption: Vicepresidente Richard Nixon con Castillo Armas, 1955.
+credit: <a href="https://www.criticalpast.com/video/65675024196_Vice-President-and-Mrs-Richard-Nixon_President-Armas_Presidential-Palace">CriticalPast</a>
+
+id: repression
+image: golpe.jpg
+text: Se estima que fueron asesinadas de tres a cinco mil personas. En Finca Jocotán de UFCo en la costa sur, más de 1,000 organizadores sindicales fueron detenidos y ejecutados. Los campesinos que habían participado en la reforma agraria fueron reprimidos sin piedad. Según un sobreviviente de Ch'orti, <a style="text-decoration: none;" href="https://www.centrodememoriahistorica.gov.co/descargas/guatemala-memoria-silencio/guatemala-memoria-del-silencio.pdf"><span class="ceh">“Cuando Jacobo Arbenz se fue, hubo una gran masacre. Aparecieron cadáveres en las carreteras. En la época de Castillo Armas, el Ejército iba a todas partes matando campesinos”.</span></a>
+credit: <a href="https://narratively.com/the-literally-unbelievable-story-of-the-original-fake-news-network-full/">Bettmann, Getty Images</a>
+discrete: true
+forward: fadeTimeline
+backward: fadeOutTimeline
+
+id: desaparecidos
+image: desaparecidos_milton.jpg
+contain: true
+text: El golpe de 1954 inició una espiral de violencia que desembocaría en cuatro décadas de represión y terror. Con el progreso democrático sofocado, surgieron movimientos guerrilleros y una serie de brutales gobiernos militares libraron la guerra contra sus propios ciudadanos. Se estima que 200.000 personas murieron y desaparecieron, y más de 1,5 millones se desplazaron durante el conflicto, según una comisión de la verdad patrocinada por la ONU llamada <a href="https://www.centrodememoriahistorica.gov.co/descargas/guatemala-memoria-silencio/guatemala-memoria-del-silencio.pdf">Comité de Esclarecimiento Histórico</a> (CEH).
+credit:<a href="http://www.liannemiltonphotography.com/guatemala/la-vida-no-vale-nada/guate012/"> Lianne Milton</a>
+discrete: true
+forward: fadeTimeline
+backward: fadeOutTimeline
+
+id: ceh
+contain: true
+image: Informe-guatemala-memoria-del-silencio.png
+text: El informe de más de 4.000 páginas de la CEH, basado en el testimonio de sobrevivientes, registró miles de violaciones de derechos humanos y concluyó que el 93% fueron cometidas por las fuerzas gubernamentales. Estas incluyeron más de 600 masacres, definidas formalmente por la CEH como <span class="ceh">“la ejecución arbitraria de más de cinco personas, realizada en el mismo lugar y como parte de un mismo operativo, cuando las víctimas se encontraban en un estado de absoluta o relativa indefensión".</span>
+:end
+discrete: true
+forward: fadeTimeline
+backward: fadeOutTimeline
+
+id: massacre-map
+type: map-block
+text: Las masacres tuvieron como objetivo abrumador a las comunidades indígenas. La mayoría incluyó no solo la matanza masiva de personas indefensas, sino también actos atroces como la tortura, la violencia sexual y la quema de aldeas enteras.<br><br>
+Para visualizar cómo esta violencia indiscriminada dejó una devastación duradera en las comunidades indígenas, incluyendo las regiones de origen de Claudia, Jakelin, Felipe, Juan, Wilmer y Carlos, transcribí datos sobre las más de 600 masacres registradas en el informe de la CEH y las mapeé.
+:end
+
+id: chorti-region
+type: map-block
+text: <span style="font-weight: bold; text-decoration: underline; color: #fffee0">Región Ch'orti 1965-1970</span>
+<br>
+La región Ch'orti 'sufrió algunas de las primeras masacres registradas por la CEH en el período del conflicto (1960-1996). A mediados de la década de 1960, el ejército guatemalteco y los escuadrones de la muerte entrenados por la CIA mataron a miles de campesinos en la parte oriental del país.
+:end
+discrete: true
+forward: zoomChorti
+backward: zoomOutFull
+time: 1
+
+id: counter-terror
+type: map-block
+text: Aunque los combatientes guerrilleros en el este eran menos de 500, la contrainsurgencia militar se cobró entre 6.000 y 8.000 vidas, ya que el ejército ejecutó impunemente a presuntos izquierdistas. Si bien las masacres registradas por la CEH representan sólo una fracción del número de muertos, el testimonio de los sobrevivientes revela la devastación provocada por la campaña "contraterrorista".
+
+id: declassified
+type: map-block
+text: <p> Los documentos desclasificados muestran que el gobierno de EE. UU. Estaba al tanto de las violaciones de derechos humanos en curso. En marzo de 1968, un funcionario del Departamento de Estado escribió lo siguiente en un <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB11/docs/doc05.pdf">memorando a Washington</a>: 
+</p>
+<br>
+<p class="smaller" style="font-style: italic; width: 92%; margin: 0 auto;">“El contraterror es indiscriminado ... Los escuadrones oficiales son culpables de atrocidades. Los interrogatorios son brutales, se recurre a la tortura y se mutilan los cuerpos ... Hemos estado tan obsesionados con el miedo a la insurgencia que hemos racionalizado nuestros escrúpulos e inquietudes. Esto no se debe solo a que hemos llegado a la conclusión de que no podemos hacer nada al respecto, porque en realidad nunca lo intentamos. Más bien sospechamos que tal vez sea una buena táctica, y que mientras los comunistas estén siendo asesinados está bien ... estaremos ante la historia incapaces de responder a las acusaciones de que alentamos al Ejército de Guatemala a hacer estas cosas”.</p>
+:end
+
+id: qeqchi-region
+type: map-block
+text: <span style="font-weight: bold; text-decoration: underline; color: #fbd6ff">Región Q'eqchi '1970-1978</span>
+<br>
+En todo Guatemala, la violencia estatal se utilizó para aplastar cualquier resistencia al dominio de las élites y corporaciones extranjeras. En el territorio Q'eqchi ', la resistencia pacífica al despojo de tierras y los proyectos mineros fue tratada como una insurgencia comunista y se enfrentó a una violencia indiscriminada.
+:end
+discrete: true
+forward: zoomQeqchi
+backward: zoomChorti
+time: 2
+
+id: panzos
+type: map-block
+text: El 29 de mayo de 1978, el Ejército abrió fuego contra una multitud de campesinos q'eqchi 'reunidos en Panzós para protestar contra los desalojos de tierras y la intimidación por parte de la élite plantadora local. Al menos 50 fueron masacrados y durante los siguientes cuatro años el ejército ejecutó a más de 300 autoridades ancestrales y organizadores comunitarios involucrados en la disputa por la tierra.
+
+id: foreign-investment
+type: map-block
+text: Con la resistencia de base a la explotación de tierras indígenas sofocada, las inversiones extranjeras se dispararon mientras las corporaciones estadounidenses  <a href="https://multinationalmonitor.org/hyper/issues/1981/05/nairn.html">trabajaban en conjunto</a>  con la élite represiva para expandir sus operaciones. Los clientes del Bank of America incluyeron al presidente de Guatemala, Fernando Romeo Lucas García (1978-1982), y su cartera de inversiones <a href="https://www.multinationalmonitor.org/hyper/issues/1982/10/bogdan.html">"[léase] como un "Quién es quién" de los violadores de derechos humanos”</a>.
+:end
+
+id: achi-region
+type: map-block
+text: <span style="font-weight: bold; text-decoration: underline; color: #c0fce2">Región Achi 1978-1982</span>
+<br>
+La violencia siguió aumentando después de Panzós. Según la CEH, los primeros años de la década de los ochenta fueron <span class="ceh">"los años más manchados de muerte, destrucción y dolor en la historia contemporánea del país"</span>. El genocidio se desató en varios territorios indígenas, incluido el de los Maya Achi, donde el Ejército reprimió salvajemente a los pobladores que se resistieron a la construcción de una represa hidroeléctrica financiada por el Banco Mundial.
+:end
+discrete: true
+forward: zoomAchi
+backward: zoomQeqchi
+time: 3
+
+id: rio-negro
+type: map-block
+text: El pueblo achí del pueblo de Río Negro se negó a abandonar sus tierras ancestrales, protestando por la represa que estaba programada para inundar más de 50 kilómetros cuadrados, desplazar a miles y destruir al menos 50 sitios ceremoniales y arqueológicos. Los aldeanos fueron marcados como guerrilleros, masacrados sin piedad y conducidos a las montañas donde muchos murieron de hambre. Meses después de las masacres, se llenó el depósito.
+
+id: chuj-region
+type: map-block
+text: <span style="font-weight: bold; text-decoration: underline; color: #c7d0ff">Región Chuj 1982</span>
+<br>
+El genocidio también devastó el norte de Huehuetenango en 1982, donde los pueblos Chuj y Q'anjob'al eran <span class="ceh">"percibidos no solo como rebeldes o diferentes al grupo ladino, sino también antagónicos a la autoridad y especialmente capaces de organizarse para lograr sus intereses"</span>. La defensa de las comunidades de sus bosques ante las incursiones de una empresa maderera fue uno de los factores que llevaron al Ejército a clasificar al pueblo Chuj como enemigo interno.
+:end
+discrete: true
+forward: zoomChuj
+backward: zoomAchi
+
+id: scorched-earth
+type: map-block
+text: La campaña de tierra arrasada llevada a cabo por el Ejército apuntó a comunidades enteras para su destrucción, y atrocidades espantosas como la masacre de San Francisco llevaron al 80% de la población a huir. La mayoría de las comunidades quedaron abandonadas y muchas personas huyeron a México, donde sobrevivieron en campos de refugiados durante años.
+:end
+time: 4
+
+id: us-support
+type: map-block
+text: Los Estados Unidos continuó apoyando la campaña criminal de contrainsurgencia del gobierno con dinero, armas y apoyo diplomático. El 4 de diciembre de 1982, el presidente de Estados Unidos, Ronald Reagan, se reunió con el dictador guatemalteco Efraín Ríos Montt, quien luego sería condenado por genocidio, y declaró: <a href="https://www.reaganlibrary.gov/archives/speech/remarks-san-pedro-sula-honduras-following-meeting-president-jose-efrain-rios-montt">“Yo sé que el presidente Ríos Montt es un hombre de gran integridad y compromiso personal...  Sé que quiere mejorar la calidad de vida de todos los guatemaltecos y promover la justicia social”.</a><br>
+<img class="reagan" src="./assets/img/montt-reagan.jpg">
+:end
+caption: foto: Reagan Library
+discrete: true
+forward: zoomOutFull
+backward: zoomChuj
+
+id: war-end
+type: map-block
+text: Las masacres y las violaciones de los derechos humanos continuaron devastando las comunidades indígenas de Guatemala durante los años 80 y 90. Al final oficial del conflicto armado interno en 1996, se estimaba que 200.000 personas habían muerto o habían desaparecido, 1,5 millones habían sido desplazadas y se había causado un daño incalculable a los movimientos sociales y el progreso democrático en Guatemala.
+time: 5
+
+id: civilians
+type: map-block
+text: La mayoría de las víctimas eran civiles. El informe de la CEH concluyó que <span class="ceh">“en ningún momento del enfrentamiento armado interno los grupos guerrilleros tuvieron el potencial militar necesario para representar una amenaza inminente al Estado ... el Estado magnificó deliberadamente la amenaza militar de la insurgencia”</span>. Los excesos del gobierno El terror se sintió con mayor intensidad en las comunidades <span class="indigenous">indígenas</span> donde las masacres y ejecuciones <span class="ceh">"no solo fueron un intento de destruir la base social de la guerrilla, sino, sobre todo, de destruir los valores culturales que aseguraban la cohesión y la acción colectiva en las comunidades mayas".</span>
+:end
+discrete: true
+forward: fadeBinary
+backward: fadeAll
+
+id: witnesses
+image: aeu.jpg
+text: El histórico informe de la CEH solo fue posible gracias a la dedicación y valentía de los testigos y organizadores, que lucharon por la justicia a pesar del gran peligro personal. Muchos de los reclutadores y entrevistadores <a href="https://hrdag.org/wp-content/uploads/2013/01/state-violence-guate-1999.pdf">pertenecían a organizaciones del movimiento popular</a> como la AEU (Asociación de Estudiantes de San Carlos), GAM (Grupo de Ayuda Mutua), CUC (Comité de Unidad Campesina) y CONAVIGUA (Asociación Nacional de Viudas de Guatemala), agrupaciones de defensores de derechos humanos cuyos miembros fueron criminalizados y asesinados durante el conflicto.
+
+id: widows
+image: sepur-zarco-flickr.jpg
+text: A pesar de los heroicos esfuerzos para exponer la violencia patrocinada por el estado, la publicación del informe de la comisión de la verdad no marcó una nueva era de responsabilidad y justicia en Guatemala. La impunidad se incorporó a la CEH desde el principio, ya que su creación estaba obligada a evitar nombrar a los autores individuales. Los militares y el gobierno recibieron el informe con un silencio ensordecedor, y los asesinos en masa continuaron caminando abiertamente por las calles. Los esfuerzos de base para enjuiciar a los criminales de guerra se han  <a href="https://www.npr.org/2019/02/11/693492939/opinion-guatemala-must-not-grant-amnesty-to-war-criminals">retrasado y obstaculizado</a> en todo momento.
+credit: <a href="https://www.flickr.com/photos/unwomen/45385291432/in/photolist-2c9xtj9-2c9xtWG-2b87xLb-2c9xtyN-2b87xS3-2b87xXy-2b87xPN-2b87y4A-2b87xGd-2c9xu57-2b87xHW-2c9xu19-2b87xRw-2b87xTL-2b87xWS-2c9xtoh-Q61wG5-2c9xuc1-2b87xNf-2b87xQQ-2b87xVu-2c9xu9L-2c9xtSy-2c9xtqS-2c9xtvG-2c9xtDC-2b87xYL-2b87y1j">UN Women/Ryan Brown</a>
+
+id: post-war
+image: red-cross-day-guatemala-05.jpg
+text: Desde la devastación de la invasión colonial, hasta la explotación de la era de las plantaciones, pasando por la violencia genocida del conflicto armado, una historia de invasión ha dejado profundas cicatrices en las comunidades indígenas. La desigualdad estructural que impulsa la migración de niños mayas como Claudia, Jakelin, Felipe, Juan, Wilmer y Carlos está indisolublemente ligada a esta historia, especialmente desde que el ciclo de invasión ha continuado en los años desde que terminó la guerra.
+caption: Miembros de la comunidad llevan los restos exhumados de sus seres queridos para enterrarlos en 2016, 33 años después de que fueran masacrados en Quiquil, Guatemala.
+credit: <a href="https://www.icrc.org/en/document/red-cross-day-guatemala-missing-dignified-burial">Daniele Volpe/ICRC</a>
+
+id: chapter3
+type: chapter
+hed: Capítulo 1: La defensa de la vida
+text: “Lo que enfrentamos hoy no es tan diferente de lo que sucedió antes, sino que es la continuación de una política diseñada para apropiarse de nuestros recursos naturales... Cuando se firmaron los Acuerdos de Paz, un objetivo subyacente era beneficiar a las grandes empresas, empresas transnacionales, megaproyectos y la economía global. Estaba en el interés del capital global y transnacional terminar la guerra y limpiar nuestras tierras para implementar sus proyectos. Por supuesto, no se explicó de esta manera. Se ocultó la existencia de una agenda económica”.
+
+—<a href="https://ecologiesofmigrantcare.org/rigoberto-juarez-mateo/">Rigoberto Juárez Mateo, autoridad ancestral Maya Q’anjob’al</a>
+:end
+
+id: mine
+image: marlin-mine.jpg
+text: <span class="firstCharacter">L</span>a democracia y la dignidad han permanecido bajo ataque en el período de posguerra de Guatemala. Los Acuerdos de Paz de 1996 prometieron abordar las disparidades socioeconómicas, proteger los derechos humanos y crear un estado multicultural con igualdad de derechos para los pueblos indígenas. En cambio, el proceso de paz allanó el camino para una nueva etapa de invasión marcada por la intensificación del capitalismo extractivo, las promesas vacías del multiculturalismo neoliberal y la represión violenta de los defensores de la tierra, el agua y los derechos humanos.
+credit: <a href="https://www.oxfamamerica.org/explore/issues/natural-resource-justice/guatemala-conflict-over-mining-fuels-violence-as-companies-fail-to-respect-community-rights/">Anna Fawcus/Oxfam America</a>
+
+id: multiculturalism
+image: weaving.jpg
+text: La retórica del multiculturalismo promovida por el Estado ha resultado hueca. Según el  <a href="https://www.brown.edu/academics/race-ethnicity/events/black-and-indigenous-resistance-americas-multiculturalism-racist-backlash-panel-2">antropólogo kaqchiquel Rigoberto Ajcalón Choy</a>,  “el Estado guatemalteco comenzó a tolerar ciertos reclamos indígenas, especialmente a los derechos culturales, pero no estaba dispuesto a aceptar sus derechos económicos, particularmente los relacionados con la lucha por el territorio y los recursos -petróleo, agua, bosques, minerales, plantas y animales, entre otros- porque afectan los intereses del sector dominante e interfieren con el plan del gobierno para promover las inversiones capitalistas”.
+credit: <a href="https://www.lifegate.com/teixchel-weaving-guatemala">Teixchel</a>
+
+id: cafta
+image: clinton.jpg
+text: Mientras que el gobierno guatemalteco defendía de boquilla los derechos indígenas, una ola de reformas económicas neoliberales en la década de 1990 y principios de la de 2000 aseguró el dominio continuo de la élite y las corporaciones transnacionales. Estas reformas incluyeron la privatización de los servicios públicos, la aprobación de leyes mineras sesgadas hacia los intereses del capital extranjero y la aprobación del Tratado de Libre Comercio de América Central (CAFTA) en 2005.
+credit: <a href="https://commons.wikimedia.org/wiki/File:President_Bill_Clinton_signs_NAFTA.jpg">Ralph Alswang</a>
+
+id: us-responsibility
+image: biden-molina.jpg
+text: Cuando el presidente de los Estados Unidos, Bill Clinton, visitó Guatemala en marzo de 1999, pocas semanas después de la publicación del informe de la CEH, rompió con la política anterior al admitir y disculparse por el papel de los Estados Unidos en los abusos contra los derechos humanos de la guerra. Clinton <a href="https://www.nytimes.com/1999/03/11/world/clinton-offers-his-apologies-to-guatemala.html">prometió</a> “apoyar el proceso de paz y reconciliación en Guatemala”, promesa contradicha en los años posteriores debido al mantenimiento de vínculos estrechos con la élite corrupta, la promoción de una agenda de desarrollo que prioriza las ganancias corporativas sobre los derechos humanos y la escalada de la política destructiva de la militarización de fronteras.
+caption:El vicepresidente Joe Biden le da la mano al presidente de Guatemala, Otto Pérez Molina, en 2015. Molina, anteriormente <a href="https://www.theguardian.com/world/2013/apr/05/guatemalan-president-accused-civil-war">implicado en crímenes de guerra</a>, renunció a la presidencia a fines de 2015 en medio de un escándalo de corrupción.
+credit: <a href="https://revealnews.org/article/how-donald-trump-took-down-the-robert-mueller-of-latin-america/">Moises Castillo/Associated Press</a>
+discrete: true
+forward: fadeDefenders
+backward: fadeOutDefenders
+
+id: workers-rights
+image: guatemala-coffee-Voisin-wapo.jpg
+text: En 2005, un congresista de EE. UU. <a href="https://citizen.typepad.com/eyesontrade/2014/08/central-america-crisis-belies-caftas-empty-promises.html">elogió el CAFTA</a> como “la mejor política de inmigración, antipandillas y antidrogas a nuestra disposición”, afirmando, como otros defensores, que el acuerdo mejoraría materialmente la vida de los guatemaltecos, reduciría la violencia y empoderaría a los trabajadores. En cambio, CAFTA inundó América Central con exportaciones agrícolas estadounidenses baratas, desplazando a millones de trabajadores rurales que no podían competir contra la agroindustria subsidiada. Tampoco mejoraron las condiciones de los trabajadores. En 2018, la Confederación Sindical Internacional calificó a Guatemala como <a href="https://www.citizen.org/wp-content/uploads/CAFTA-fact-sheet-Aug-2018.pdf">“una de las peores violaciones a los derechos de los trabajadores, con violencia generalizada y sistémica contra trabajadores y sindicalistas”</a>.
+credit: <a href="https://www.washingtonpost.com/world/2019/06/11/falling-coffee-prices-drive-guatemalan-migration-united-states/">Sarah L. Voisin/The Washington Post</a>
+discrete: true
+forward: fadeDefenders
+backward: fadeOutDefenders
+
+id: defenders-map
+type: map-block
+text: La represión dirigida de hoy contra activistas, líderes indígenas y defensores ambientales tiene un parecido sorprendente con los abusos del pasado. De <b>2018 to 2020</b>, una ONG de Guatemala dedicada a rastrear la violencia contra activistas <a href="https://udefegua.org/informes"> documentó 57 asesinatos</a>, muchos en comunidades mayas que sufrieron masacres durante la guerra (UDEFEGUA). Cientos más fueron objeto de amenazas, intimidación y criminalización por parte de actores corporativos y estatales.
+
+id: stay
+image: manifestaciones.jpg
+text: Abandonados por el gobierno, luchando para llegar a fin de mes y enfrentando represalias por la resistencia, muchos optan por emigrar en busca de dignidad y seguridad en el extranjero. Pero muchos también eligen quedarse, continuando una tradición de resistencia y supervivencia, negándose a ser separados de sus tierras, alzando la voz y organizándose para exigir un cambio.
+credit: <a href="https://www.entremundos.org/revista/manifestacionrenunciaya-copia/?lang=en">EntreMundos</a>
+
+id: ixquisis
+image: Vecinos-de-Ixquisis-nomada.jpg
+text: Cerca del pueblo de Yalambojoch de Felipe Gómez Alonzo, la Resistencia Pacífica de la Microrregión de Ixquisis continúa defendiendo su territorio del desarrollo ilegal de una represa hidroeléctrica. Son una de las muchas comunidades indígenas de Guatemala que exigen que el gobierno respete su derecho al “consentimiento previo, libre e informado” garantizado por la ley, y detenga los megaproyectos extractivos que destruyen la tierra y empobrecen a las comunidades.
+credit: <a href="https://nomada.gt/pais/viaje-a-donde-nadie-quiere-ir-region-de-la-guerrilla/">Carlos Sebastián/Nomada</a>
+
+id: art-resistance
+image: curruchich.jpg
+text: Organizándose en las calles y abogando por el cambio a través del arte, los guatemaltecos continúan exigiendo el fin de la discriminación contra los pueblos indígenas, las mujeres y los pobres. Líderes como la cantante Kaqchikel  <a href="https://assembly.malala.org/stories/kaqchikel-artist-guatemala">Sara Curruchich</a> ejemplifican la determinación de las mujeres indígenas, quienes dice deben ser consideradas “actoras de cambio, actores fundamentales para la prevalencia de nuestros saberes indígenas, y un pilar de sustentabilidad para nuestras comunidades y para todo el país, para el mundo".
+credit: <a href="https://commons.wikimedia.org/wiki/File:MX_MR_SARA_CURRUCHICH_(49632918476).jpg">Secretaría de Cultura Ciudad de México</a>
+
+id: transnational-advocacy
+image: claudia.jpg
+text: Las redes transnacionales de defensa siguen luchando contra la militarización de las fronteras y la criminalización de los migrantes, que agravan la inseguridad y provocan la muerte y desaparición de miles cada año. Grupos como la Caravana de Madres de Migrantes Desaparecidos están <a href="https://theconversation.com/central-americas-caravan-of-mothers-personal-grief-and-political-grievance-183793">llamando la atención</a> sobre la crueldad de los regímenes de aplicación de la ley de inmigración, mientras que otros como la ACLU <a href="https://www.aclutx.org/en/cases/gomez-et-al-v-usa-barrera">exigen justicia</a> por la muerte de Claudia y otros jóvenes migrantes.
+credit: <a href="https://www.flickr.com/photos/duncan/48624637458/in/photolist-2h5MYEf-2kozpPh-nLEagL-qtgvWb-2kSMxN8-sdQSYW-qLFPro-st9aHY-rreGr4-r8EBUx-sdRvbf-rHJkSR-suUENo-rCkAhV-qLgWqC-rYAc7P-ryqUaq-2hNiioU-rr99Ku-rt4W1D-rbBVtU-rprPPr-ryrko1-rHLprv-rpmQyx-qMkdzn-rFrHC1-rkW1Uc-rHEtaG-qLFZDN-rkT3K3-rFQ7jQ-rkJDXf-rpnKEx-rkWq8B-sCYwqy-sVq3Q6-sD2xmV-rJSrj2-rr92VC-rHGz4K-qFAGai-rHzPYW-qRcXX2-sdR5uG-rHEujL-qLVABg-rrcW1d-szBaVg-szAd2r">Duncan Cumming</a>
+
+id: criminalization
+image: Rio-sagrado-Guatemala_01_bernando_caal.jpg
+text: A pesar de la criminalización, las comunidades continúan defendiendo sus tierras y denunciando la corrupción del Estado y la élite económica, cuyo poder es visible en instituciones como el CACIF, <a href="https://insightcrime.org/investigations/guatemala-elites-and-organized-crime-introduction/">una coalición de élites empresariales</a> que “esencialmente ejerce un poder de veto sobre políticas económicas indeseables”. Liderada por defensores como el maestro q'eqchi' Bernardo Caal Xol, <a href="https://www.culturalsurvival.org/news/water-defender-bernardo-caal-xol-released-prison">recién liberado</a> tras cuatro años de prisión por defensa ambiental, el pueblo sigue luchando contra el extractivismo, la impunidad y el racismo estructural.
+credit: <a href="https://newsweekespanol.com/2021/11/maestro-maya-encarcelado-defender-rio-sagrado/">Rosa M. Tristán/familia Caal Xol</a>
+
+id: dignity
+image: volcano-adobe.jpg
+text: El éxodo masivo que cobró la vida de Claudia, Jakelin, Felipe, Juan, Wilmer y Carlos terminará solo cuando se escuchen sus voces. Hasta entonces, el pueblo seguirá luchando, en memoria de los que vinieron antes y en nombre de los que vendrán, por el derecho a la vida digna en Guatemala.
+
+
+
+{footer}
+
+
+acknowledgmentsHeadline: Acknowledgements
+
+[.acknowledgements]
+* Special thanks to <a href="https://www.vidadignaguatemala.org/">Colectivo Vida Digna</a>, who provided invaluable feedback and suggestions throughout the development of this story.
+* Additional thanks to the many researchers, journalists, and photographers who generously shared suggestions, resources, and encouragement, including Anthony Fontes, Doug Hertzler, Jeff Abbott, Lianne Milton, Patrick Ball, Greg Grandin, Liz Oglesby, Marcie Mersky, and many more.
+* Big thanks to everyone at UW–Madison who provided help and advice, including Daniel Huffman, Alicia Iverson, Meghan Kelly, Anika Rice, Katka Showers-Curtis, Tanya Anderson, Jenna Loyd, and Rob Roth.
+* This project was built using NPR News Apps' open source <a href="https://github.com/nprapps/interactive-template">Interactive Template</a>, developed by Thomas Wilburn.
+[]
+
+dataSourceHeadline: Data Sources
+
+[.dataSources]
+* Census data: <a href="http://redatam.censopoblacion.gt/bingtm/RpWebEngine.exe/Portal?BASE=CPVGT2018&lang=esp">Instituto Nacional de Estadística</a>
+* Satellite imagery: <a href="https://s2maps.eu/">Sentinel-2 cloudless</a> by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2017 & 2018)
+* Elevation data: <a href="https://asterweb.jpl.nasa.gov/gdem.asp">ASTER Global Digital Elevation Map</a>
+* The data on massacres during the internal armed conflict was transcribed directly from Appendix I and Appendix II of the <a href="https://www.centrodememoriahistorica.gov.co/descargas/guatemala-memoria-silencio/guatemala-memoria-del-silencio.pdf">official report</a> of the Commission for Historical Clarification (CEH), then geocoded to the municipality where the massacre took place.
+* Data on 2018-2020 murders of environmental and indigenous defenders: <a href="https://udefegua.org/informes">Unidad de Protección a defensoras y defensores de Derechos Humanos de Guatemala</a> (UDEFEGUA)
+*Quotes from family and community members:<br>Jakelin: <a href="https://www.aljazeera.com/news/2018/12/22/guatemalan-family-mourns-jakelin-caal-7-who-died-in-us-custody">Al Jazeera</a>, <a href="https://www.aljazeera.com/news/2019/2/6/palm-oil-industry-expansion-spurs-guatemala-indigenous-migration">Al Jazeera</a><br>Felipe: <a href="https://www.theguardian.com/world/2018/dec/29/felipe-gomez-alonzo-guatemala-boy-death-us-custody-home-village-mourns">The Guardian</a>, <a href="https://www.nationalgeographic.com/culture/article/how-quiet-guatemala-region-became-migration-epicenter">National Geographic</a>, <a href="https://rightsindevelopment.org/community-voices-ixquisis-guatemala/">Coalition for Human Rights in Development</a><br>Juan: <a href="https://time.com/5587817/juan-de-leon-gutierrez-guatemala-migrant/">TIME</a><br>Wilmer: <a href="https://apnews.com/article/immigration-caribbean-ap-top-news-international-news-guatemala-be6905e2eef74dd4bcaa32c3e33f305a">AP News</a>, <a href="https://pinacnews.com/index.php/2019/06/25/meet-wilmer-he-died-last-month-after-being-apprehended-at-the-border/">PINAC News</a>, <a href="https://pbi-guatemala.org/en/who-we-accompany/%E2%80%98new-day%E2%80%99-chorti-campesino-central-coordinator/food-security-guatemala-preventable#sdfootnote10sym">PBI Guatemala</a><br>Carlos: <a href="https://www.aljazeera.com/news/2019/5/24/guatemalan-village-mourns-teen-who-died-in-us-custody">Al Jazeera</a>, <a href="https://www.elpasotimes.com/in-depth/news/2020/12/10/immigration-guatemala-migrant-father-el-paso-detention-center/3772406001/">El Paso Times</a>, <a href="https://progressive.org/latest/corruption-fuels-an-exodus-of-guatemalans-180917/">The Progressive Magazine</a>
+
+
+[]
+
+{}

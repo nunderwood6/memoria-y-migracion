@@ -1,0 +1,30 @@
+<footer class="closing">
+
+      <div class="about">
+        <div class="constrained">
+          <div class="side-by-side">
+
+            <div class="block">
+              <h4><%= doc.footer.acknowledgmentsHeadline %></h4>
+              <ul class="credits">
+                <% doc.footer.acknowledgements.forEach(function(credit) { %>
+                <li><%= credit %></li>
+                <% }) %>
+              </ul>
+            </div>
+
+            <div class="block">
+              <h4><%= doc.footer.dataSourceHeadline %></h4>
+
+              <ul class="credits">
+                <% doc.footer.dataSources.forEach(function(credit) { %>
+                <li><%= t.renderMarkdown(credit) %></li>
+                <% }) %>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+</footer>

@@ -1,0 +1,35 @@
+{
+"type": "FeatureCollection",
+"name": "bounding_box_wgs84",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{
+	"type":"Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [ -95.999613227049053, 11.986058568650364 ]
+	}
+},
+{
+	"type":"Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [ -84.999999999998636, 12.000000000002679 ]
+	}
+},
+{
+	"type":"Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [ -84.79018172406721, 20.008356901762397 ]
+	}
+},
+{
+	"type":"Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [ -96.231057881703805, 19.99385881141994 ]
+	}
+}
+]
+}

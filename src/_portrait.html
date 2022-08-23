@@ -1,0 +1,52 @@
+<section class="portrait slide" id="<%= slide.id %>">
+
+
+      <div class="backdrop">
+        <div class="inner">
+          <div>
+            <p><b>Claudia Patricia Gómez González</b><br>
+            Maya Mam | 20 años | 5/23/2018</p>
+            <img src="./assets/img/portraits/claudia.jpg">
+          </div>
+          <div>
+            <p><b>Jakelin Caal Maquin</b><br>
+            Maya Q’eqchi’ | 7 años | 12/8/2018</p>
+            <img src="./assets/img/portraits/jakelin.jpg">
+          </div>
+          <div>
+            <p><b>Felipe Gómez Alonzo</b><br>
+            Maya Chuj | 8 años | 12/25/2018</p>
+            <img src="./assets/img/portraits/felipe.jpg">
+          </div>
+          <div>
+            <p><b>Juan de León Gutiérrez</b><br>
+            Maya Ch’orti’ | 16 años | 4/30/2019</p>
+            <img src="./assets/img/portraits/juan.jpg">
+          </div>
+          <div>
+            <p><b>Wilmer Josue Ramirez Vasquez</b><br>
+            Maya Ch’orti’ | 2 años | 5/16/2019</p>
+            <img src="./assets/img/portraits/wilmer.jpg">
+          </div>
+          <div>
+            <p><b>Carlos Gregorio Hernández Vásquez</b><br>
+            Maya Achi | 16 años | 5/20/2019</p>
+            <img src="./assets/img/portraits/carlos.jpg">
+          </div>
+        </div>
+        
+      </div>
+
+      <div class="text">
+        <div class="content">
+          <%= t.renderMarkdown(slide.text) %>
+        </div>
+        <% if (slide.caption) { %>
+        <div class="caption">
+          <%= slide.caption %>
+        </div>
+        <% } %>
+      </div>
+
+
+</section>

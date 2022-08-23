@@ -1,0 +1,30 @@
+.slide.chapter {
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #000;
+	z-index: 6;
+
+	a {
+		text-decoration-thickness: 1px;
+	}
+
+	.background-text {
+		pointer-events: auto;
+		text-align: left;
+		color: #fff;
+		padding: 20px;
+		max-width: 600px;
+
+		h2 {
+			text-align: center;
+		}
+
+	}
+	.boot-complete & + .slide {
+	  margin-top: 10vh;
+	  padding-top: 50vh;
+	}
+}
+

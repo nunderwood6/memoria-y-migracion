@@ -1,0 +1,17 @@
+<section class="chapter slide" id="<%= slide.id %>">
+
+
+      <div class="background-text">
+        
+        <h2><%= slide.hed %></h2>
+        <%= t.renderMarkdown(slide.text) %>
+
+        <% if (slide.caption) { %>
+        <div class="caption">
+          <%= slide.caption %>
+        </div>
+        <% } %>
+      </div>
+
+
+</section>

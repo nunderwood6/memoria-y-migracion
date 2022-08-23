@@ -1,0 +1,38 @@
+<section class="image slide" id="<%= slide.id %>">
+  
+  <img
+    src="./assets/img/<%= slide.image %>"
+    class="backdrop"
+    alt=""
+    style="<%= t.style({
+      "object-fit": slide.contain ? "contain" : false,
+      "object-position": slide.anchor
+    }) %>"
+  >
+  <p class="credit backdrop">
+    <% if (slide.credit) { %>
+        Foto: <%= slide.credit %>
+    <% } %>
+
+    <% if (slide.credit_special) { %>
+        <%= slide.credit_special %>
+    <% } %>
+
+  </p>
+  
+  <div class="text<%= slide.discrete ? ' discrete' : '' %>"
+    <% if (slide.discrete) { %>
+      forward="<%= slide.forward %>"
+      backward="<%= slide.backward %>"
+      <% } %>
+      >
+    <div class="content">
+      <%= t.renderMarkdown(slide.text) %>
+    </div>
+    <% if (slide.caption) { %>
+    <div class="caption">
+      <%= slide.caption %>
+    </div>
+    <% } %>
+  </div>
+</section>

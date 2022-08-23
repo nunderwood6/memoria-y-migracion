@@ -1,0 +1,30 @@
+<section class="ai2html double slide" id="<%= slide.id %>">
+
+  <div class="backdrop">
+  <%= t.include(`ai2html/_${slide.include}.html`, { slide }) %>
+  </div>
+
+  <div class="text trigger" state="First">
+    <div class="content">
+      <%= t.renderMarkdown(slide.text) %>
+    </div>
+    <% if (slide.caption) { %>
+    <div class="caption">
+      <%= slide.caption %>
+    </div>
+    <% } %>
+  </div>
+
+  <div class="text trigger" state="Second">
+    <div class="content">
+      <%= t.renderMarkdown(slide.text2) %>
+    </div>
+    <% if (slide.caption) { %>
+    <div class="caption">
+      <%= slide.caption %>
+    </div>
+    <% } %>
+  </div>
+
+
+</section>

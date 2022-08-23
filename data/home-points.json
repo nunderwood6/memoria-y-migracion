@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "home_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "textSize": {"mobile": 10, "desktop": 10}, "properties": { "id": 1, "name": "Felipe", "town": "Yalambojoch", "positionX": "right", "positionY": "top"}, "geometry": { "type": "Point", "coordinates": [ -91.572477400268141, 15.980128436424637 ] } },
+{ "type": "Feature", "textSize": {"mobile": 10, "desktop": 10},"properties": { "id": 2, "name": "Carlos", "town": "San José El Rodeo", "positionX": "right", "positionY": "bottom"}, "geometry": { "type": "Point", "coordinates": [ -90.641302319756477, 14.980483928419657 ] } },
+{ "type": "Feature", "textSize": {"mobile": 10, "desktop": 10},"properties": { "id": 3, "name": "Wilmer", "town": "Tituque", "positionX": "left", "positionY": "bottom" }, "geometry": { "type": "Point", "coordinates": [ -89.360356682257361, 14.712392590547799 ] } },
+{ "type": "Feature", "textSize": {"mobile": 10, "desktop": 10},"properties": { "id": 4, "name": "Juan", "town": "El Tesoro", "positionX": "right", "positionY": "top" }, "geometry": { "type": "Point", "coordinates": [ -89.209899877153688, 14.905955659732733 ] } },
+{ "type": "Feature", "textSize": {"mobile": 10, "desktop": 10},"properties": { "id": 5, "name": "Jakelin", "town": "San Antonio Secortez", "positionX": "right", "positionY": "top" }, "geometry": { "type": "Point", "coordinates": [ -90.08403791230127, 15.992003855078368 ] } },
+{ "type": "Feature", "textSize": {"mobile": 10, "desktop": 10},"properties": { "id": 6, "name": "Claudia", "town": "La Unión Los Mendoza", "positionX": "right", "positionY": "top" }, "geometry": { "type": "Point", "coordinates": [ -91.643027167301099, 14.910105687776172 ] } }
+]
+}

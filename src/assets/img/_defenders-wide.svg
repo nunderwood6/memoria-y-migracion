@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 613.944 641.799" style="enable-background:new 0 0 613.944 641.799;" xml:space="preserve">
+<g id="ai2html-settings">
+	<rect x="1027.348" y="19.4" style="fill:none;" width="400" height="248.746"/>
+	<text transform="matrix(1 0 0 1 1027.3479 30.0504)" style="display:none;"><tspan x="0" y="0" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">ai2html-settings</tspan><tspan x="0" y="18" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">settings_version: 0.60</tspan><tspan x="0" y="36" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">image_format: svg</tspan><tspan x="0" y="54" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">responsiveness: dynamic</tspan><tspan x="0" y="72" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">output: one-file</tspan><tspan x="0" y="90" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">html_output_path: </tspan><tspan x="122.908" y="90" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">../memoria-migracion/src/ai2html/</tspan><tspan x="0" y="108" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">html_output_extension: .html</tspan><tspan x="0" y="126" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">image_output_path: ../assets/</tspan><tspan x="186.747" y="126" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">img/</tspan><tspan x="0" y="144" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">image_source_path: assets/img/</tspan><tspan x="0" y="162" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">local_preview_template: </tspan><tspan x="0" y="180" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">png_number_of_colors: 128</tspan><tspan x="0" y="198" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">jpg_quality: 60</tspan><tspan x="0" y="216" style="display:inline;fill:#231F20; font-family:'MyriadPro-Regular'; font-size:15px;">project_name: _defenders</tspan></text>
+</g>
+<g id="base_map" style="display:none;">
+	
+		<image style="display:inline;overflow:visible;" width="2069" height="1485" xlink:href="../../../../../../../Applications/MAMP/htdocs/movimiento/defenders@2x-80.jpg"  transform="matrix(0.2149 0 0 0.2149 -1341.3138 138.172)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="2069" height="1485" xlink:href="../../../../../../../Applications/MAMP/htdocs/movimiento/defenders@2x-80.jpg"  transform="matrix(0.3431 0 0 0.3431 -753.1885 837.4214)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="2069" height="1485" xlink:href="../../../../../../../Applications/MAMP/htdocs/movimiento/defenders@2x-80.jpg"  transform="matrix(0.4403 0 0 0.4403 -147.9842 -6.6351)">
+	</image>
+</g>
+<g id="ref_1_" style="display:none;">
+	
+		<image style="overflow:visible;opacity:0.61;" width="2118" height="1414" xlink:href="../../../../../Desktop/old_desktop/Screen Shot 2021-11-05 at 3.56.43 PM.png"  transform="matrix(0.3582 0 0 0.3582 -778.8319 838.4214)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="608" xlink:href="1DF002E5330F9414.jpg"  transform="matrix(0.0591 0 0 0.0591 -409.9367 1181.1926)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="608" xlink:href="1DF002E5330F9415.jpg"  transform="matrix(0.0591 0 0 0.0591 -291.9359 1235.6985)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="609" height="609" xlink:href="1DF002E5330F9416.jpg"  transform="matrix(0.0591 0 0 0.0591 -246.2386 1176.8861)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="609" xlink:href="1DF002E5330F9413.jpg"  transform="matrix(0.0591 0 0 0.0591 -340.3111 1041.5884)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="607" height="607" xlink:href="1DF002E5330F9451.jpg"  transform="matrix(0.0591 0 0 0.0591 -521.1047 1043.8353)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="612" height="612" xlink:href="53B06B2061406C18.jpg"  transform="matrix(0.0591 0 0 0.0591 -521.2525 1173.0295)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="608" xlink:href="53B06B2061406C19.jpg"  transform="matrix(0.0371 0 0 0.0371 -1175.547 349.366)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="608" xlink:href="53B06B2061406C1A.jpg"  transform="matrix(0.0371 0 0 0.0371 -1051.9304 387.7366)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="609" height="609" xlink:href="53B06B2061406C17.jpg"  transform="matrix(0.0371 0 0 0.0371 -1041.4401 332.6323)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="609" xlink:href="53B06B2061406C16.jpg"  transform="matrix(0.0371 0 0 0.0371 -1134.1521 269.4103)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="607" height="607" xlink:href="53B06B2061406C29.jpg"  transform="matrix(0.0371 0 0 0.0371 -1244.6492 260.4917)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="612" height="612" xlink:href="53B06B2061406C2A.jpg"  transform="matrix(0.0371 0 0 0.0371 -1250.6569 353.2444)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="608" xlink:href="53B06B2061406C28.jpg"  transform="matrix(0.076 0 0 0.076 284.1123 433.9919)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="608" xlink:href="53B06B2061406C30.jpg"  transform="matrix(0.076 0 0 0.076 443.8642 504.4825)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="609" height="609" xlink:href="53B06B2061406C31.jpg"  transform="matrix(0.076 0 0 0.076 502.5786 428.9173)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="608" height="609" xlink:href="53B06B2061406C25.jpg"  transform="matrix(0.076 0 0 0.076 381.7091 255.0794)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="607" height="607" xlink:href="53B06B2061406C26.jpg"  transform="matrix(0.076 0 0 0.076 149.4157 257.9662)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="612" height="612" xlink:href="53B06B2061406C27.jpg"  transform="matrix(0.076 0 0 0.076 141.6814 423.9622)">
+	</image>
+</g>
+<g id="locator" style="display:none;">
+	<circle style="display:inline;fill:#FCFCFC;" cx="-557.265" cy="1066.1" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-566.865" cy="1197.756" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-447.02" cy="1190.791" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-380.523" cy="1065.092" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-277.338" cy="1198.813" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-294.995" cy="1222.372" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-1218.683" cy="281.34" r="1.632"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-1224.706" cy="363.934" r="1.632"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-1149.522" cy="359.564" r="1.632"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-1107.805" cy="280.707" r="1.632"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-1043.072" cy="364.597" r="1.632"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-1054.149" cy="379.376" r="1.632"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="102.955" cy="286.574" r="3.342"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="90.62" cy="455.732" r="3.342"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="244.603" cy="446.784" r="3.342"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="330.042" cy="285.278" r="3.342"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="462.621" cy="457.091" r="3.342"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="439.934" cy="487.36" r="3.342"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-557.265" cy="1066.1" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-566.865" cy="1197.756" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-447.02" cy="1190.791" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-380.523" cy="1065.092" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-277.338" cy="1198.813" r="2.601"/>
+	<circle style="display:inline;fill:#FCFCFC;" cx="-294.995" cy="1222.372" r="2.601"/>
+</g>
+<g id="text">
+	<g style="display:none;">
+		<rect x="-599.205" y="1145.745" style="display:inline;fill:none;" width="42.165" height="21.088"/>
+		<text transform="matrix(1 0 0 1 -593.9407 1154.9077)" style="display:inline;"><tspan x="0" y="0" style="fill:#F7CDDD; font-family:'ProximaNova-Regular'; font-size:11px; letter-spacing:3;">Mam</tspan><tspan x="-5.179" y="9" style="fill:#F7CDDD; font-family:'ProximaNova-Regular'; font-size:9px;">840,000+</tspan></text>
+	</g>
+	<g style="display:none;">
+		<text transform="matrix(1 0 0 1 -582.2087 1078.8859)" style="display:inline;"><tspan x="0" y="0" style="fill:#CED7F2; font-family:'ProximaNova-Regular'; font-size:11px; letter-spacing:3;">Chuj</tspan><tspan x="0.741" y="9" style="fill:#CED7F2; font-family:'ProximaNova-Regular'; font-size:9px;">90,000+</tspan></text>
+	</g>
+	<g style="display:none;">
+		<text transform="matrix(1 0 0 1 -453.6602 1166.4733)" style="display:inline;"><tspan x="0" y="0" style="fill:#CEF2CE; font-family:'ProximaNova-Regular'; font-size:11px; letter-spacing:3;">Achi</tspan><tspan x="-0.964" y="9" style="fill:#CEF2CE; font-family:'ProximaNova-Regular'; font-size:9px;">160,000+</tspan></text>
+	</g>
+	<g style="display:none;">
+		<text transform="matrix(1 0 0 1 -333.4324 1203.6353)" style="display:inline;"><tspan x="0" y="0" style="fill:#EFEFCE; font-family:'ProximaNova-Regular'; font-size:11px;">Ch’orti’</tspan><tspan x="10.335" y="9" style="fill:#EFEFCE; font-family:'ProximaNova-Regular'; font-size:9px;">110,000+</tspan></text>
+	</g>
+	<g style="display:none;">
+		<text transform="matrix(1 0 0 1 -405.1588 1101.7301)" style="display:inline;"><tspan x="0" y="0" style="fill:#E6CEF2; font-family:'ProximaNova-Regular'; font-size:11px; letter-spacing:3;">Q’eqchi’</tspan><tspan x="6.615" y="9" style="fill:#E6CEF2; font-family:'ProximaNova-Regular'; font-size:9px;">1.3 million+</tspan></text>
+	</g>
+	<g style="display:none;">
+		
+			<text transform="matrix(1 0 0 1 -273.6376 1196.7881)" style="display:inline;fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Juan</text>
+	</g>
+	<g style="display:none;">
+		
+			<text transform="matrix(1 0 0 1 -292.3938 1232.2544)" style="display:inline;fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Wilmer</text>
+	</g>
+	<g style="display:none;">
+		<rect x="-563.49" y="1186.084" style="display:inline;fill:none;" width="36.366" height="12.738"/>
+		
+			<text transform="matrix(1 0 0 1 -563.49 1195.2476)" style="display:inline;fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Claudia</text>
+	</g>
+	<g style="display:none;">
+		<rect x="-554.664" y="1054.127" style="display:inline;fill:none;" width="29.699" height="12.738"/>
+		
+			<text transform="matrix(1 0 0 1 -554.6638 1063.2905)" style="display:inline;fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Felipe</text>
+	</g>
+	<g style="display:none;">
+		
+			<text transform="matrix(1 0 0 1 -377.1238 1063.3276)" style="display:inline;fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Jakelin</text>
+	</g>
+	<g style="display:none;">
+		<rect x="-446.298" y="1192.513" style="display:inline;fill:none;" width="30.745" height="12.738"/>
+		
+			<text transform="matrix(1 0 0 1 -446.2975 1201.6761)" style="display:inline;fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Carlos</text>
+	</g>
+	<g>
+		<rect x="-1267.183" y="220.89" style="fill:none;" width="127.293" height="51.462"/>
+		<text transform="matrix(1 0 0 1 -1251.8955 229.2205)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Water defenders Nery </tspan><tspan x="-14.64" y="10" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Esteban Pedro and Domingo </tspan><tspan x="-12.04" y="20" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Esteban Pedro, targeted for </tspan><tspan x="-13.47" y="30" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">resistance to a hydro dam in </tspan><tspan x="-3.64" y="40" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">the Ixquisis microregion</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 -840.4788 1484.2124)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Much of the population in the </tspan><tspan x="-6.358" y="11" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Western highlands is Indigenous</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 -430.953 1484.2119)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:18px;">|</tspan><tspan x="-74.258" y="11" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">While most of Guatemala City’s </tspan><tspan x="-85.456" y="22" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">3 million people are Ladino, internal </tspan><tspan x="-73.461" y="33" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">migration from rural Indigneous</tspan><tspan x="-58.914" y="44" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;"> communities is common.</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 -22.5652 843.0709)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Much of the population in the </tspan><tspan x="-6.936" y="12" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Western highlands is Indigenous</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 321.2712 842.6716)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:20px;">|</tspan><tspan x="-80.971" y="12" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">While most of Guatemala City’s </tspan><tspan x="-93.187" y="24" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">3 million people are Ladino, internal </tspan><tspan x="-80.101" y="36" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">migration from rural Indigneous</tspan><tspan x="-64.231" y="48" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;"> communities is common.</tspan></text>
+	</g>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1211.733" y1="286.311" x2="-1211.733" y2="271.852"/>
+	<g>
+		<rect x="-1097.247" y="253.174" style="fill:none;" width="128.59" height="31.78"/>
+		<text transform="matrix(1 0 0 1 -1094.6962 261.5043)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Five members of campesino </tspan><tspan x="-1.025" y="10" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">group CODECA, targeted for </tspan><tspan x="1.215" y="20" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">resistance to land evictions.</tspan></text>
+	</g>
+	<g>
+		<rect x="-1076.662" y="389.774" style="fill:none;" width="87.98" height="55.644"/>
+		<text transform="matrix(1 0 0 1 -1076.662 398.104)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Ch’orti’  defender </tspan><tspan x="0" y="10" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Medardo Alonzo </tspan><tspan x="0" y="20" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Lucero, targeted for </tspan><tspan x="0" y="30" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">resistance to mining</tspan></text>
+	</g>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1032.36" y1="299.421" x2="-1032.36" y2="284.962"/>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1050.03" y1="389.757" x2="-1050.03" y2="380.824"/>
+	<g>
+		<rect x="-1218.505" y="356.637" style="fill:none;" width="158.532" height="34.097"/>
+		<text transform="matrix(1 0 0 1 -1203.5825 364.9668)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Maya Achi ancestral authority </tspan><tspan x="-1.88" y="10" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">Paulina Cruz Ruiz, targeted for </tspan><tspan x="20.375" y="20" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:10px;">resistance to mining</tspan></text>
+	</g>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-1139.14" y1="356.668" x2="-1139.14" y2="349.079"/>
+	
+		<rect x="-1269.203" y="141.172" style="display:none;opacity:0.08;fill:none;stroke:#FFFFFF;stroke-width:0.001;stroke-miterlimit:10;" width="300" height="313.611"/>
+	<g>
+		<rect x="-633.79" y="1005.552" style="fill:none;" width="174.779" height="46.025"/>
+		<text transform="matrix(1 0 0 1 -620.5063 1014.7153)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Water defenders Nery Esteban </tspan><tspan x="-12.326" y="11" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Pedro and Domingo Esteban Pedro, </tspan><tspan x="-6.11" y="22" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">targeted for resistance to a hydro </tspan><tspan x="-0.704" y="33" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">dam in the Ixquisis microregion</tspan></text>
+	</g>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-546.374" y1="1073.856" x2="-546.374" y2="1050.779"/>
+	<g>
+		<rect x="-339.728" y="1038.876" style="fill:none;" width="159.281" height="34.079"/>
+		<text transform="matrix(1 0 0 1 -328.0062 1048.0386)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Five members of campesino </tspan><tspan x="-1.127" y="11" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">group CODECA, targeted for </tspan><tspan x="1.336" y="22" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">resistance to land evictions.</tspan></text>
+	</g>
+	<g>
+		<rect x="-358.542" y="1238.986" style="fill:none;" width="195.908" height="24.965"/>
+		<text transform="matrix(1 0 0 1 -358.5418 1248.1489)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Ch’orti’  defender Medardo Alonzo </tspan><tspan x="0" y="11" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Lucero, targeted for resistance to mining</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 -419.2033 1305.0421)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Xinka defender Alejandro Hernández Garcíal,  </tspan><tspan x="0" y="11" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">targeted for resistance to mining</tspan></text>
+	</g>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-260.338" y1="1096.031" x2="-260.338" y2="1072.954"/>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-288.79" y1="1238.959" x2="-288.79" y2="1224.702"/>
+	<g>
+		<rect x="-557.182" y="1186.098" style="fill:none;" width="253.023" height="25.005"/>
+		<text transform="matrix(1 0 0 1 -545.8994 1195.2612)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">Maya Achi ancestral authority Paulina Cruz Ruiz, </tspan><tspan x="37.047" y="11" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:11px;">targeted for resistance to mining</tspan></text>
+	</g>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-430.513" y1="1186.147" x2="-430.513" y2="1174.037"/>
+	
+		<line style="display:none;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="-435.709" y1="1307.399" x2="-421.953" y2="1307.399"/>
+	<g style="display:none;">
+		<rect x="19.219" y="223.944" style="display:inline;fill:none;" width="196.427" height="50.425"/>
+		<text transform="matrix(1 0 0 1 19.2802 233.9402)" style="display:inline;"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Water defenders Nery Esteban Pedro </tspan><tspan x="21.173" y="12" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">and Domingo Esteban Pedro, </tspan><tspan x="10.644" y="24" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">targeted for resistance to a hydro </tspan><tspan x="16.542" y="36" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">dam in the Ixquisis microregion</tspan></text>
+	</g>
+	<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="117.432" y1="296.794" x2="117.432" y2="273.564"/>
+	<g style="display:none;">
+		<rect x="395.091" y="263.371" style="display:inline;fill:none;" width="178.901" height="38.292"/>
+		<text transform="matrix(1 0 0 1 410.4486 273.3669)" style="display:inline;"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Five members of campesino </tspan><tspan x="-1.23" y="12" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">group CODECA, targeted for </tspan><tspan x="1.458" y="24" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">resistance to land evictions.</tspan></text>
+	</g>
+	<g style="display:none;">
+		<rect x="338.839" y="509.074" style="display:inline;fill:none;" width="217.827" height="26.386"/>
+		<text transform="matrix(1 0 0 1 356.8847 519.0695)" style="display:inline;"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Ch’orti’  defender Medardo Alonzo </tspan><tspan x="-15.474" y="12" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Lucero, targeted for resistance to mining</tspan></text>
+	</g>
+	<g style="display:none;">
+		<text transform="matrix(1 0 0 1 280.6359 593.4868)" style="display:inline;"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Xinka defender Alejandro Hernández Garcíal,  </tspan><tspan x="0" y="12" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">targeted for resistance to mining</tspan></text>
+	</g>
+	<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="484.517" y1="325.251" x2="484.517" y2="301.163"/>
+	<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="448.003" y1="508.679" x2="448.003" y2="490.382"/>
+	<g style="display:none;">
+		<rect x="149.928" y="440.34" style="display:inline;fill:none;" width="232.838" height="28.855"/>
+		<text transform="matrix(1 0 0 1 154.7074 450.3359)" style="display:inline;"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Maya Achi ancestral authority Paulina Cruz </tspan><tspan x="12.288" y="12" style="fill:#FFFFFF; font-family:'ProximaNova-Regular'; font-size:12px;">Ruiz, targeted for resistance to mining</tspan></text>
+	</g>
+	<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="266.123" y1="440.903" x2="266.123" y2="425.361"/>
+	<line style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" x1="259.454" y1="596.511" x2="277.107" y2="596.511"/>
+</g>
+</svg>

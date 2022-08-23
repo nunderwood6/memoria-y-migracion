@@ -1,0 +1,23 @@
+<div class="magic-map outer">
+	<div class="inner">
+			<div class="focusOnly ai2html"><%= t.include(`ai2html/_focus-only.html`) %></div>
+			<div class="indigenousOnly ai2html"><%= t.include(`ai2html/_indigenous-only.html`) %></div>
+			<div class="binary ai2html"><%= t.include(`ai2html/_binary.html`) %></div>
+			<div class="defenders ai2html"><%= t.include(`ai2html/_defenders.html`) %></div>
+		<!-- map gets appended here -->
+	</div>
+	<div class="chart-outer timeline">
+    	<div class="chart">
+    		<div class="chartTitle">
+    		<p>Masacres registradas por la CEH por año</p>
+    		</div>
+    	</div>
+	</div>
+	<div class="labels timeline">
+		<p class="year" style="top: 3%; right: 3%; font-size: 24px;">January 1965</p>
+	</div>
+	<div class="key binary">
+		<p><label>Indígena</label><b class="indigenous"></b></p>
+		<p><label>Ladino</label><b class="ladino"></b></p>
+	</div>
+</div>

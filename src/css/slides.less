@@ -1,0 +1,181 @@
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+// weird flex but okay
+@keyframes fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+.slide {
+  z-index: 1;
+  clear: right;
+  position: relative;
+  overflow: hidden;
+  pointer-events: none;
+
+  .backdrop {
+    pointer-events: auto;
+    position: absolute;
+    z-index: -2;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    animation: none;
+
+    &.credit {
+      pointer-events: auto;
+      z-index: 1;
+      position: absolute;
+      width: auto;
+      height: auto;
+      top: auto;
+      left: auto;
+      right: 0px;
+      bottom: 0px;
+      margin: 0;
+      padding: 2px;
+      font-size: 10px;
+      background: fade(#111,50%);
+      // text-shadow: 0.25px 0.25px 0.25px fade(#111,50%),-0.25px 0.25px 0.25px fade(#111,50%),0.25px -0.25px 0.25px fade(#111,50%),-0.25px -0.25px 0.25px fade(#111,50%);
+      color: #eee;
+      border: 0;
+
+      a {
+        text-decoration: none;
+        color: #eee;
+      }
+    }
+  }
+
+  .boot-complete & .backdrop {
+    position: fixed;
+    opacity: 0;
+    display: none;
+
+  }
+
+  &.exiting {
+    .backdrop {
+      display: block;
+      animation: fade-out .2s linear;
+      opacity: 0;
+
+
+    }
+  }
+
+  &.active {
+    .backdrop {
+      display: block;
+      animation: fade-in .2s linear;
+      opacity: 1;
+    }
+  }
+
+  .content {
+    z-index: 10;
+    position: relative;
+    pointer-events: auto;
+  }
+
+  .text {
+    pointer-events: auto;
+    position: relative;
+    z-index: 5;
+    clear: right;
+    font-size: 17px;
+    padding: 18px;
+    background: fade(#111, 90%);
+    color: white;
+    box-shadow: 0 24px 8px -8px fade(black, 20%);
+    margin-bottom: 60px;
+    margin: 5vh 30px 90vh;
+    width: 35%;
+    float: right;
+
+    p {
+      position: relative;
+      z-index: 10;
+    }
+
+    @media @mobile {
+      width: auto;
+      font-size: 17px;
+    }
+
+    img {
+      float: right;
+      width: 100px;
+      height: auto;
+      margin-left: 3px;
+      border: .25px solid #eee;
+
+      &.reagan {
+          float: none;
+          border: none;
+          margin-left: 0;
+          padding: 10px;
+          max-width: 350px;
+          width: 100%;
+      }
+    }
+  }
+
+  .caption {
+    font-size: 80%;
+    padding-top: 20px;
+    font-style: italic;
+
+  }
+
+  &.image {
+    .backdrop {
+      object-fit: cover;
+    }
+  }
+
+  .firstCharacter {
+    float: left;
+    font-size: 48px;
+    line-height: 35px;
+    padding-top: 0px;
+    padding-right: 4px;
+    padding-left: 0px;
+  }
+
+
+  
+}
+
+ #us-support {
+    .caption {
+      padding-top: 0px !important;
+    }
+ }
+
+
+// // slide types
+@import "chapter";
+@import "ai2html";
+@import "portrait";
+// @import "chart-aqi";
+// @import "chart-svg";
+// @import "multiple";
+// @import "titlecard";
+// @import "video";
+// @import "waffle";
+// @import "white-rock";
+
+// // targeted by ID
+// @import "individual/coal-road";
+// @import "individual/frosty-map";
+// @import "individual/sat-map";
+// @import "individual/temp-map";
+
+
+

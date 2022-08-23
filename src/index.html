@@ -1,0 +1,45 @@
+<!doctype html>
+
+<%
+var doc = grunt.data.archieml.story;
+var renderMarkdownText = text => t.renderMarkdown(text).replace(/<\/?p>/g, "");
+%>
+
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+
+  	<div class="opener">	
+  		<h1><%= doc.intro.hed %></h1>
+  		<h2><%= doc.intro.subhed %></h2>
+  		<h4><%= doc.intro.credit %></h4>
+      <p>Foto: Fabio Erdos/ActionAid</p>
+  	</div>
+
+    <%= t.include("_magic-map.html") %>
+
+  	<main class="sequence">
+  	  <%
+  	    doc.sequence.forEach(function(slide) {
+  	      print(t.include(`_${slide.type || "image"}.html`, { slide }));
+  	    });
+
+  	  %>
+  	</main>
+
+    <%= t.include("partials/_footer.html", { doc }) %>
+
+    <script>
+      // image unloading for lazy-load
+      var lazy = Array.prototype.slice.call(document.querySelectorAll(".sequence .slide:nth-child(n + 3) [src]"));
+      lazy.forEach(function(img) {
+        img.setAttribute("data-src", img.getAttribute("src"));
+        img.removeAttribute("src", "");
+      });
+    </script>
+    <script src="app.js" async></script>
+  </body>
+</html>

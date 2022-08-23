@@ -1,0 +1,52 @@
+.slide.portrait {
+
+	z-index: 0;
+
+	.backdrop {
+		background-color: #ccc;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		.inner {
+
+			max-width: 700px;
+			margin: 0 auto;
+			display: flex;
+			justify-content: center;
+			flex-wrap: wrap;
+			align-items: center;
+
+			div {
+			 	flex-basis: 200px;
+			 	flex-grow: 1;
+			 	text-align: center;
+			 	margin: 10px;
+
+			 	img {
+			 		width: 100%;
+			 		height: auto;
+			 	}
+
+			 	p {
+			 		font-size: 11px;
+			 		margin-bottom: 5px;
+			 	}
+			}
+
+			@media screen and (max-width: 660px) {
+			    div {
+			    	flex-basis: 31%;
+			    	flex-grow: 0;
+			    	margin: 5px;
+
+			    	p {
+			    		font-size: 10px;
+			    	}
+
+			    }
+			}
+		}
+	}
+
+}

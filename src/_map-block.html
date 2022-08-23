@@ -1,0 +1,19 @@
+<section class="map-block slide" id="<%= slide.id %>">
+  
+  <div class="text<%= slide.discrete ? ' discrete' : '' %><%= slide.time ? ` time${slide.time}` : '' %>"
+      <% if (slide.discrete) { %>
+      forward="<%= slide.forward %>"
+      backward="<%= slide.backward %>"
+      <% } %>
+    >
+    <div class="content">
+      <%= t.renderMarkdown(slide.text) %>
+    </div>
+    <% if (slide.caption) { %>
+    <div class="caption">
+      <%= slide.caption %>
+    </div>
+    <% } %>
+  </div>
+  
+</section>

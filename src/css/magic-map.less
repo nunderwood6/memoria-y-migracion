@@ -1,0 +1,266 @@
+div.magic-map.outer {
+	
+	position: fixed;
+	opacity: 0;
+	top: 0;
+	left: 0;
+
+    width: 100vw;
+    height: 100vh;
+    background-color: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    &.exiting {
+      animation: fade-out .2s linear;
+      opacity: 0;
+
+  }
+
+  &.active {
+      animation: fade-in .2s linear;
+      opacity: 1;
+      z-index: 1;
+
+
+  }
+
+    div.inner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: #ebeced;
+    max-height: 104.52vw;
+    max-width: 95.68vh;
+
+
+      
+      div.ai2html {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 2;
+        pointer-events: none;
+
+      img {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      p {
+        position: relative;
+        z-index: 3;
+        text-shadow: -1px -1px 0.5px fade(#333,50%), 1px -1px 0.5px fade(#333,50%), -1px 1px 0.5px fade(#333,50%), 1px 1px 0.5px fade(#333,50%);
+      }
+
+
+      @media screen and (min-width: 800px) {
+          .g-artboard[data-min-width="300"],.g-artboard[data-min-width="478"] { display: none; }
+      }
+
+      @media screen and (max-width: 799px) and (min-width: 450px) {
+          .g-artboard[data-min-width="300"],.g-artboard[data-min-width="614"] { display: none; }
+      }
+
+      @media screen and (max-width: 449px) {
+          .g-artboard[data-min-width="478"],.g-artboard[data-min-width="614"] { display: none; }
+      }
+
+      &.defenders {
+        .g-artboard {
+          width: 100%;
+          padding: 5px;
+        }
+
+        img {
+          opacity: 1;
+        }
+      }
+
+      }
+
+       .indigenousOnly,.binary,.defenders {
+        opacity: 0;
+      }
+
+
+    svg {
+    	position: relative;
+      z-index: 1;
+    	width: 100%;
+    	height: 100%;
+ 		  overflow: visible;
+
+      .massacreAnnotation {
+        font-weight: normal;
+      }
+
+      text {
+        font-family: proxima-nova, sans-serif;
+      }
+    }
+
+}
+
+  .timeline {
+    opacity: 0;
+  }
+
+  div.chart-outer {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    bottom: 0px;
+  }
+
+  div.chart {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(25,25,25,0.95);
+    max-width: 500px;
+    margin: 0px auto;
+    position: relative;
+    z-index: 3;
+  }
+
+  div.chartTitle {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    font-family: proxima-nova, sans-serif;
+  }
+
+  div.chartTitle p {
+    position: relative;
+    margin: 0 auto;
+    padding-top: 2px;
+    text-align: center;
+    color: #ccc; 
+    font-size: 10px; 
+  }
+
+  .axis path,.axis line{
+    stroke: #777;
+    stroke-width: 0.25px;
+  }
+
+  .grid line {
+    stroke: #777;
+    stroke-width: 0.25px;
+  }
+
+  .axis.y path.domain,.axis.y line, .grid.y path.domain {
+    stroke: none;
+  }
+
+  .axis text {
+    fill: #777;
+    /*font-weight: bold;*/
+  }
+
+  div.labels {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    font-family: proxima-nova, sans-serif;
+  }
+
+  div.labels p {
+    z-index: 3;
+    position: absolute;
+    color: #fff;
+    font-weight: bold;
+  }
+
+  div.key {
+    z-index: 3;
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    color: #fff;
+    font-size: 14px;
+    font-family: proxima-nova, sans-serif;
+    text-align: right;
+
+    p {
+      margin: 5px 0;
+    }
+
+    label {
+      display: inline-block;
+      -webkit-transform: translate(0px, -3px);
+      transform: translate(0px, -3px);
+    }
+
+    b {
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+      margin-left: 6px;
+
+      &.indigenous {
+        background-color: #bb3969;
+      }
+
+      &.ladino {
+        background-color: #27799f;
+      }
+    }
+
+
+  }
+
+}
+
+
+
+
+  .chorti,.qeqchi,.achi,.chuj,.mam {
+    font-weight: bold;
+  }
+
+  .chorti {
+    color: #fffee0;
+  }
+
+  .qeqchi {
+    color: #fbd6ff;
+  }
+
+  .achi {
+    color: #c0fce2;
+  }
+
+  .chuj {
+    color: #c7d0ff;
+  }
+
+  .mam {
+    color: #ffc4db;
+  }
+
+  .indigenous {
+    color: #bb3969;
+    font-weight: bold;
+  }
+
+  .ladino {
+    color: #27799f;
+    font-weight: bold;
+  }
+
+
+span.ceh {
+    background-color: #eee;
+    color: #000;
+    padding: 0.5px;
+    font-size: 16px;
+    font-style: italic;
+  }
+
+
