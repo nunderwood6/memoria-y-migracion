@@ -105,10 +105,10 @@ svgInner.append("image")
         .attr("opacity", "1");
 
 // focus-only
-svgInner.append("image")
+var focusOnlyMap = svgInner.append("image")
         .attr("href", `${pathPrefix}/assets/img/focus-only.jpg`)
         .attr("xlink:href", `${pathPrefix}/assets/img/focus-only.jpg`)
-        .attr("class", "focusOnly")
+        .attr("class", "focusOnlyMap")
         .attr("x", computedBox[0][0])
         .attr("y", computedBox[0][1])
         .attr("width", focusWidth)
@@ -276,11 +276,11 @@ var homeLabels = svgInner.append("g")
               })
               .html(function(d){
                 if(d.properties.positionY == "top"){
-                  return `<text><tspan x="0" dy="-0.5em">${d.properties["name"]+ "'s home"}</tspan>
+                  return `<text><tspan x="0" dy="-0.5em">Pueblo de ${d.properties["name"]}</tspan>
                        <tspan x="0" dy="1em">${d.properties["town"]}</tspan></text>`;
                 } else {
                   return `<text><tspan x="0" dy="-0.2em">${d.properties["town"]}</tspan>
-                       <tspan x="0" dy="1em">${d.properties["name"]+ "'s home"}</tspan></text>`;
+                       <tspan x="0" dy="1em">Pueblo de ${d.properties["name"]}</tspan></text>`;
                 }
               })
               .attr("dominant-baseline", d => (d.properties.positionY == "top") ? "auto" : "hanging")
@@ -526,6 +526,7 @@ var updateMap = {
     focusOnly.transition("ensure clean timeline").duration(500).style("opacity", 0)
     indigenousOnly.selectAll("p").style("pointer-events", "none");
 
+    focusOnlyMap.style("opacity", 0);
     timelineElements.style("opacity", 1);
     homePoints.attr("opacity", 0);
   },
@@ -551,7 +552,7 @@ var updateMap = {
     binary.transition("ensure clean timeline").duration(500).style("opacity", 0).style("pointer-events", "none");
     indigenousOnly.transition("ensure clean timeline").duration(500).style("opacity", 0).style("pointer-events", "none");
     focusOnly.transition("ensure clean timeline").duration(500).style("opacity", 0).style("pointer-events", "none");
-
+    focusOnlyMap.style("opacity", 0);
     animationIndex = 1;
 
     //fade out labels
@@ -820,8 +821,8 @@ function renderMassacreAnnotation(labelG){
                 .attr("text-shadow", "text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;")
                 .attr("dominant-baseline", "auto")
                 .html(function(d){
-                    return `<tspan x="0" dy="-1em" text-decoration="underline">${d.location} Massacre</tspan>
-                            <tspan x="0" dy="1em">${d.date} — ${d.killed} ${d.victimType ? d.victimType : ""}killed</tspan>`;
+                    return `<tspan x="0" dy="-1em" text-decoration="underline">Masacre de ${d.location}</tspan>
+                            <tspan x="0" dy="1em">${d.date} — ${d.killed} ${d.victimType ? d.victimType : ""}muertos</tspan>`;
                 });
     }
 
@@ -869,7 +870,7 @@ var timeScaleOverall = d3.scaleLinear()
 
 function fmtMonthYear(time){
   var dateObj = new Date(time);
-  var month = dateObj.toLocaleString('default', { month: 'long' });
+  var month = dateObj.toLocaleString('es-ES', { month: 'long' });
   var year = dateObj.getFullYear();
   return month + " " + year;
 }

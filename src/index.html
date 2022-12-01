@@ -15,7 +15,11 @@ var renderMarkdownText = text => t.renderMarkdown(text).replace(/<\/?p>/g, "");
   	<div class="opener">	
   		<h1><%= doc.intro.hed %></h1>
   		<h2><%= doc.intro.subhed %></h2>
-  		<h4><%= doc.intro.credit %></h4>
+  		<h4>
+        <%= doc.intro.credit %>
+        <br>
+        <a href="https://nick-underwood.com/thesis/">Read in English</a>
+        </h4>
       <p>Foto: Fabio Erdos/ActionAid</p>
   	</div>
 
@@ -38,6 +42,13 @@ var renderMarkdownText = text => t.renderMarkdown(text).replace(/<\/?p>/g, "");
       lazy.forEach(function(img) {
         img.setAttribute("data-src", img.getAttribute("src"));
         img.removeAttribute("src", "");
+      });
+
+      //make links open in new tab
+      var links = Array.prototype.slice.call(document.querySelectorAll("a"));
+      console.log(links);
+      links.forEach(function(link) {
+        link.setAttribute("target", "_blank");
       });
     </script>
     <script src="app.js" async></script>

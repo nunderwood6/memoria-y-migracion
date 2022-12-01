@@ -16,11 +16,6 @@ Lists are delimited with [brackets], and subsections of the document are preface
 
 
 
-
-
-
-
-
 :endskip
 
 {intro}
@@ -365,7 +360,7 @@ credit: <a href="https://www.icrc.org/en/document/red-cross-day-guatemala-missin
 
 id: chapter3
 type: chapter
-hed: Capítulo 1: La defensa de la vida
+hed: Capítulo 3: La defensa de la vida
 text: “Lo que enfrentamos hoy no es tan diferente de lo que sucedió antes, sino que es la continuación de una política diseñada para apropiarse de nuestros recursos naturales... Cuando se firmaron los Acuerdos de Paz, un objetivo subyacente era beneficiar a las grandes empresas, empresas transnacionales, megaproyectos y la economía global. Estaba en el interés del capital global y transnacional terminar la guerra y limpiar nuestras tierras para implementar sus proyectos. Por supuesto, no se explicó de esta manera. Se ocultó la existencia de una agenda económica”.
 
 —<a href="https://ecologiesofmigrantcare.org/rigoberto-juarez-mateo/">Rigoberto Juárez Mateo, autoridad ancestral Maya Q’anjob’al</a>
@@ -441,24 +436,24 @@ text: El éxodo masivo que cobró la vida de Claudia, Jakelin, Felipe, Juan, Wil
 {footer}
 
 
-acknowledgmentsHeadline: Acknowledgements
+acknowledgmentsHeadline: Agradecimientos
 
 [.acknowledgements]
-* Special thanks to <a href="https://www.vidadignaguatemala.org/">Colectivo Vida Digna</a>, who provided invaluable feedback and suggestions throughout the development of this story.
-* Additional thanks to the many researchers, journalists, and photographers who generously shared suggestions, resources, and encouragement, including Anthony Fontes, Doug Hertzler, Jeff Abbott, Lianne Milton, Patrick Ball, Greg Grandin, Liz Oglesby, Marcie Mersky, and many more.
-* Big thanks to everyone at UW–Madison who provided help and advice, including Daniel Huffman, Alicia Iverson, Meghan Kelly, Anika Rice, Katka Showers-Curtis, Tanya Anderson, Jenna Loyd, and Rob Roth.
-* This project was built using NPR News Apps' open source <a href="https://github.com/nprapps/interactive-template">Interactive Template</a>, developed by Thomas Wilburn.
+* Un agradecimiento especial al <a href="https://www.vidadignaguatemala.org/">Colectivo Vida Digna</a>, quien brindó valiosos comentarios y sugerencias a lo largo del desarrollo de esta historia.
+* Agradecimientos adicionales a los numerosos investigadores, periodistas y fotógrafos que generosamente compartieron sugerencias, recursos y aliento, incluidos Anthony Fontes, Doug Hertzler, Jeff Abbott, Lianne Milton, Patrick Ball, Greg Grandin, Liz Oglesby, Marcie Mersky y muchos más.
+* Muchas gracias a todos en Universidad de Wisconsin–Madison que brindaron ayuda y asesoramiento, incluidos Daniel Huffman, Alicia Iverson, Meghan Kelly, Anika Rice, Katka Showers-Curtis, Tanya Anderson, Jenna Loyd y Rob Roth.
+* Este proyecto se creó utilizando la <a href="https://github.com/nprapps/interactive-template">Plantilla Interactiva</a>, de código abierto de NPR News Apps, desarrollada por Thomas Wilburn.
 []
 
-dataSourceHeadline: Data Sources
+dataSourceHeadline: Fuentes de Datos
 
 [.dataSources]
-* Census data: <a href="http://redatam.censopoblacion.gt/bingtm/RpWebEngine.exe/Portal?BASE=CPVGT2018&lang=esp">Instituto Nacional de Estadística</a>
-* Satellite imagery: <a href="https://s2maps.eu/">Sentinel-2 cloudless</a> by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2017 & 2018)
-* Elevation data: <a href="https://asterweb.jpl.nasa.gov/gdem.asp">ASTER Global Digital Elevation Map</a>
-* The data on massacres during the internal armed conflict was transcribed directly from Appendix I and Appendix II of the <a href="https://www.centrodememoriahistorica.gov.co/descargas/guatemala-memoria-silencio/guatemala-memoria-del-silencio.pdf">official report</a> of the Commission for Historical Clarification (CEH), then geocoded to the municipality where the massacre took place.
-* Data on 2018-2020 murders of environmental and indigenous defenders: <a href="https://udefegua.org/informes">Unidad de Protección a defensoras y defensores de Derechos Humanos de Guatemala</a> (UDEFEGUA)
-*Quotes from family and community members:<br>Jakelin: <a href="https://www.aljazeera.com/news/2018/12/22/guatemalan-family-mourns-jakelin-caal-7-who-died-in-us-custody">Al Jazeera</a>, <a href="https://www.aljazeera.com/news/2019/2/6/palm-oil-industry-expansion-spurs-guatemala-indigenous-migration">Al Jazeera</a><br>Felipe: <a href="https://www.theguardian.com/world/2018/dec/29/felipe-gomez-alonzo-guatemala-boy-death-us-custody-home-village-mourns">The Guardian</a>, <a href="https://www.nationalgeographic.com/culture/article/how-quiet-guatemala-region-became-migration-epicenter">National Geographic</a>, <a href="https://rightsindevelopment.org/community-voices-ixquisis-guatemala/">Coalition for Human Rights in Development</a><br>Juan: <a href="https://time.com/5587817/juan-de-leon-gutierrez-guatemala-migrant/">TIME</a><br>Wilmer: <a href="https://apnews.com/article/immigration-caribbean-ap-top-news-international-news-guatemala-be6905e2eef74dd4bcaa32c3e33f305a">AP News</a>, <a href="https://pinacnews.com/index.php/2019/06/25/meet-wilmer-he-died-last-month-after-being-apprehended-at-the-border/">PINAC News</a>, <a href="https://pbi-guatemala.org/en/who-we-accompany/%E2%80%98new-day%E2%80%99-chorti-campesino-central-coordinator/food-security-guatemala-preventable#sdfootnote10sym">PBI Guatemala</a><br>Carlos: <a href="https://www.aljazeera.com/news/2019/5/24/guatemalan-village-mourns-teen-who-died-in-us-custody">Al Jazeera</a>, <a href="https://www.elpasotimes.com/in-depth/news/2020/12/10/immigration-guatemala-migrant-father-el-paso-detention-center/3772406001/">El Paso Times</a>, <a href="https://progressive.org/latest/corruption-fuels-an-exodus-of-guatemalans-180917/">The Progressive Magazine</a>
+* Datos censales: <a href="http://redatam.censopoblacion.gt/bingtm/RpWebEngine.exe/Portal?BASE=CPVGT2018&lang=esp">Instituto Nacional de Estadística</a>
+* Imágenes de satélite: <a href="https://s2maps.eu/">Sentinel-2 cloudless</a> by EOX IT Services GmbH (Contiene datos modificados de Copernicus Sentinel de 2017 y 2018)
+* Datos de elevación: <a href="https://asterweb.jpl.nasa.gov/gdem.asp">ASTER Global Digital Elevation Map</a>
+* Los datos sobre masacres durante el conflicto armado interno fueron transcritos directamente del Anexo I y Anexo II del <a href="https://www.centrodememoriahistorica.gov.co/descargas/guatemala-memoria-silencio/guatemala-memoria-del-silencio.pdf">informe oficial</a> de la Comisión para el Esclarecimiento Histórico (CEH), luego geocodificados al municipio donde ocurrió la masacre.
+* Datos sobre asesinatos de defensores ambientales e indígenas 2018-2020: <a href="https://udefegua.org/informes">Unidad de Protección a defensoras y defensores de Derechos Humanos de Guatemala</a> (UDEFEGUA)
+* Citas de familiares y miembros de la comunidad:<br>Jakelin: <a href="https://www.aljazeera.com/news/2018/12/22/guatemalan-family-mourns-jakelin-caal-7-who-died-in-us-custody">Al Jazeera</a>, <a href="https://www.aljazeera.com/news/2019/2/6/palm-oil-industry-expansion-spurs-guatemala-indigenous-migration">Al Jazeera</a><br>Felipe: <a href="https://www.theguardian.com/world/2018/dec/29/felipe-gomez-alonzo-guatemala-boy-death-us-custody-home-village-mourns">The Guardian</a>, <a href="https://www.nationalgeographic.com/culture/article/how-quiet-guatemala-region-became-migration-epicenter">National Geographic</a>, <a href="https://rightsindevelopment.org/community-voices-ixquisis-guatemala/">Coalition for Human Rights in Development</a><br>Juan: <a href="https://time.com/5587817/juan-de-leon-gutierrez-guatemala-migrant/">TIME</a><br>Wilmer: <a href="https://apnews.com/article/immigration-caribbean-ap-top-news-international-news-guatemala-be6905e2eef74dd4bcaa32c3e33f305a">AP News</a>, <a href="https://pinacnews.com/index.php/2019/06/25/meet-wilmer-he-died-last-month-after-being-apprehended-at-the-border/">PINAC News</a>, <a href="https://pbi-guatemala.org/en/who-we-accompany/%E2%80%98new-day%E2%80%99-chorti-campesino-central-coordinator/food-security-guatemala-preventable#sdfootnote10sym">PBI Guatemala</a><br>Carlos: <a href="https://www.aljazeera.com/news/2019/5/24/guatemalan-village-mourns-teen-who-died-in-us-custody">Al Jazeera</a>, <a href="https://www.elpasotimes.com/in-depth/news/2020/12/10/immigration-guatemala-migrant-father-el-paso-detention-center/3772406001/">El Paso Times</a>, <a href="https://progressive.org/latest/corruption-fuels-an-exodus-of-guatemalans-180917/">The Progressive Magazine</a>
 
 
 []

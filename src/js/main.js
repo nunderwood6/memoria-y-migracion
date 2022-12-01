@@ -1,6 +1,6 @@
-// window.onbeforeunload = function () {
-//   return window.scrollTo(0, 0);
-// }
+window.onbeforeunload = function () {
+  return window.scrollTo(0, 0);
+}
 
 var $ = require("./lib/qsa");
 
