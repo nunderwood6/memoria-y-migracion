@@ -671,17 +671,18 @@ var updateMap = {
 
   },
   fadeBinary: function(){
-    //fade in binary
-    binaryImg.transition("fadeInBinary")
-          .duration(500)
-          .style("opacity", 1)
-  },
-  fadeAll: function(){
-    //fade out binary
-    binaryImg.transition("fadeOutBinary")
-          .duration(500)
-          .style("opacity", 0)
-  },
+      //fade in binary
+      binaryImg.transition("fadeInBinary")
+            .duration(500)
+            .style("opacity", 1);
+
+    },
+    fadeAll: function(){
+      //fade out binary
+      binaryImg.transition("fadeOutBinary")
+            .duration(500)
+            .style("opacity", 0);
+    },
   fadeOutDefenders: function(){
     //show binary
     binaryImg.style("opacity", 1);

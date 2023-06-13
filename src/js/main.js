@@ -1,3 +1,8 @@
+//set so reload starts at top
+if (history.scrollRestoration) {
+    history.scrollRestoration = 'manual';
+}
+
 window.onbeforeunload = function () {
   return window.scrollTo(0, 0);
 }

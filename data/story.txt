@@ -87,6 +87,7 @@ backward: fadeIndigenous
 
 id: disaster
 image: queja_volpe_nytimes.jpg
+anchor: left center
 text: A pesar de los elevados costos y los terribles riesgos del viaje hacia el norte, la migración está generalizada en muchas áreas indígenas, una estrategia de supervivencia ante el desastre y el abandono. Cada año, decenas de miles de personas abandonan sus hogares, impulsadas por la desigualdad estructural arraigada en siglos de exclusión y explotación.
 credit: <a href="https://www.nytimes.com/2020/12/04/world/americas/guatemala-hurricanes-mudslide-migration.html">Daniele Volpe/New York Times</a>
 discrete: true
@@ -96,7 +97,7 @@ backward: fadeOutTimeline
 id: jakelin
 type: ai2html-double
 include: jakelin
-text: <img src="./assets/img/portraits/color/jakelin.jpg">En la región <span class="qeqchi"> Maya Q’eqchi’</span>, la voraz expansión de las plantaciones de aceite de palma ha dejado a muchas comunidades sin suficiente tierra para la agricultura tradicional de subsistencia. <b>Jakelin Caal Maquin</b>, Jakelin Caal Maquin, de ocho años, de San Antonio Secortez, se dirigió al norte con su padre y <a href="https://www.aljazeera.com/news/2018/12/22/guatemalan-family-mourns-jakelin-caal-7-who-died-in-us-custody">murió a causa de una infección bacteriana no tratada bajo custodia estadounidense</a> el 8 de diciembre de 2018.
+text: <img src="./assets/img/portraits/color/jakelin.jpg">En la región <span class="qeqchi"> Maya Q’eqchi’</span>, la voraz expansión de las plantaciones de aceite de palma ha dejado a muchas comunidades sin suficiente tierra para la agricultura tradicional de subsistencia. <b>Jakelin Caal Maquin</b>, de ocho años, de San Antonio Secortez, se dirigió al norte con su padre y <a href="https://www.aljazeera.com/news/2018/12/22/guatemalan-family-mourns-jakelin-caal-7-who-died-in-us-custody">murió a causa de una infección bacteriana no tratada bajo custodia estadounidense</a> el 8 de diciembre de 2018.
 text2: Para aquellos que no tienen suficiente tierra, trabajar por salarios de hambre en las plantaciones de palma o emigrar al norte son a menudo las únicas opciones. El padre de Jakelin, Nery, fue <a href="https://www.aljazeera.com/news/2019/2/6/palm-oil-industry-expansion-spurs-guatemala-indigenous-migration">despedido de una plantación de palmeras por solicitar un aumento salarial</a>. Le pagaban solo 65 quetzales ($8.50) por una jornada laboral de 12 horas, menos del salario mínimo legal.
 
 id: felipe
@@ -120,6 +121,7 @@ text2: La violencia genocida de la década de 1980 dejó cicatrices duraderas aq
 
 id: inequity
 image: banana-adobe.jpg
+anchor: right center
 text: La juventud indígena de Guatemala se enfrenta a un dilema imposible.
 
 Aquellos que se quedan y luchan por una vida digna en casa enfrentan grandes probabilidades en un país caracterizado por niveles distópicos de desigualdad. Un estudio de 2015 realizado por la firma de investigación WealthX estimó que las 260 personas más ricas de Guatemala tienen <a href="https://www.prensalibre.com/economia/en-guatemala-hay-260-millonarios/">una riqueza combinada de US$30 mil millones</a>, mientras que la mayoría de las personas sobrevive con menos de US$3 por día. Dos tercios de la tierra cultivable son propiedad de solo el 2% de los terratenientes, la mayoría dedicados a exportaciones a gran escala como aceite de palma, caña de azúcar y banano.
@@ -149,12 +151,14 @@ text: “Desde que Alta Verapaz fue poblada solo por la valiente raza Q'eqchi 'h
 
 id: colonial
 image: antigua-wikimedia.jpg
+anchor: right center
 text: <span class="firstCharacter">L</span>a lógica colonial de extracción y crueldad que persiste hoy en Guatemala comenzó en los días de la invasión española, cuando aproximadamente dos tercios de la población maya murieron en la conquista y las epidemias posteriores. Los españoles reclamaron vastas extensiones de tierra e instituyeron un brutal sistema de trabajo forzoso, justificando su violencia con una ideología racista de superioridad criolla.
 caption: Ilustración de la ciudad colonial de Antigua, Guatemala alrededor de 1840.
 credit_special: Ilustración: Frederick Catherwood
 
 id: statue
 image: Statue_of_Tecun_Uman_wikipedia.jpg
+anchor: right center
 text: Los pueblos mayas resistieron ferozmente, preservando la autonomía y la tenencia de tierras comunales en algunas regiones de las tierras altas. Aún así, al final del período colonial, se establecieron <a href="https://www.routledge.com/The-Battle-For-Guatemala-Rebels-Death-Squads-And-Us-Power/Jonas/p/book/9780813306148">patrones persistentes</a> de explotación en Guatemala: monoexportación, gobierno débil y falta de infraestructura, y la canalización de la riqueza hacia una pequeña oligarquía y extranjeros. 
 caption: Estatua de Tecún Umán, líder maya k'iche' que murió en batalla luchando contra los invasores españoles.
 credit: <a href="https://commons.wikimedia.org/wiki/File:Statue_of_Tecun_Uman_-_Central_Plaza_-_Santa_Cruz_del_Quiche_-_Quiche_-_Guatemala_(15754040660).jpg">Adam Jones</a>
@@ -204,12 +208,14 @@ caption: Eisenhower con el secretario de Estado John Foster Dulles, quien trabaj
 
 id: armas
 image: armas.jpg
+anchor: 85% top
 text: Si bien la administración Eisenhower reclamó públicamente una amenaza comunista como pretexto para el golpe de la CIA, el objetivo real era derrocar a Arbenz a favor de un gobierno represivo que protegería las ganancias de los monopolios estadounidenses. Según los historiadores, <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674019300">"todos los funcionarios de formulación de políticas estadounidenses involucrados en la decisión de derrocar al gobierno guatemalteco, excepto el propio presidente Eisenhower, tenían una conexión familiar o comercial con la United Fruit Company".</a>
 caption:El coronel Carlos Castillo Armas, figura política del golpe de Estado de la CIA, hablando con sus hombres con un arma en el cinturón.
 credit: <a href="https://narratively.com/the-literally-unbelievable-story-of-the-original-fake-news-network-full/">George Silk/The LIFE Picture Collection</a>
 
 id: coup
 image: coup.jpg
+anchor: 40% center
 text: La CIA utilizó un ejército mercenario, bombardeos aéreos y un aluvión de guerra psicológica para derrocar a Arbenz e instalar a Carlos Castillo Armas en su lugar. En los meses posteriores al golpe, el gobierno de Estados Unidos abrazó calurosamente a Armas mientras presidía una contrarrevolución sangrienta en la que miles de sindicalistas, campesinos y líderes de la sociedad civil fueron brutalmente asesinados y encarcelados.
 caption: Vicepresidente Richard Nixon con Castillo Armas, 1955.
 credit: <a href="https://www.criticalpast.com/video/65675024196_Vice-President-and-Mrs-Richard-Nixon_President-Armas_Presidential-Palace">CriticalPast</a>
@@ -350,6 +356,7 @@ text: El histórico informe de la CEH solo fue posible gracias a la dedicación 
 id: widows
 image: sepur-zarco-flickr.jpg
 text: A pesar de los heroicos esfuerzos para exponer la violencia patrocinada por el estado, la publicación del informe de la comisión de la verdad no marcó una nueva era de responsabilidad y justicia en Guatemala. La impunidad se incorporó a la CEH desde el principio, ya que su creación estaba obligada a evitar nombrar a los autores individuales. Los militares y el gobierno recibieron el informe con un silencio ensordecedor, y los asesinos en masa continuaron caminando abiertamente por las calles. Los esfuerzos de base para enjuiciar a los criminales de guerra se han  <a href="https://www.npr.org/2019/02/11/693492939/opinion-guatemala-must-not-grant-amnesty-to-war-criminals">retrasado y obstaculizado</a> en todo momento.
+caption: Sobrevivientes de la comunidad q'eqchi de Sepur Zarco obtuvieron una rara victoria legal en 2016, una de las pocas que enjuiciaron con éxito crímenes de guerra.
 credit: <a href="https://www.flickr.com/photos/unwomen/45385291432/in/photolist-2c9xtj9-2c9xtWG-2b87xLb-2c9xtyN-2b87xS3-2b87xXy-2b87xPN-2b87y4A-2b87xGd-2c9xu57-2b87xHW-2c9xu19-2b87xRw-2b87xTL-2b87xWS-2c9xtoh-Q61wG5-2c9xuc1-2b87xNf-2b87xQQ-2b87xVu-2c9xu9L-2c9xtSy-2c9xtqS-2c9xtvG-2c9xtDC-2b87xYL-2b87y1j">UN Women/Ryan Brown</a>
 
 id: post-war
@@ -429,7 +436,8 @@ credit: <a href="https://newsweekespanol.com/2021/11/maestro-maya-encarcelado-de
 
 id: dignity
 image: volcano-adobe.jpg
-text: El éxodo masivo que cobró la vida de Claudia, Jakelin, Felipe, Juan, Wilmer y Carlos terminará solo cuando se escuchen sus voces. Hasta entonces, el pueblo seguirá luchando, en memoria de los que vinieron antes y en nombre de los que vendrán, por el derecho a la vida digna en Guatemala.
+anchor: left center
+text: El éxodo masivo que cobró la vida de Claudia, Jakelin, Felipe, Juan, Wilmer y Carlos terminará solo cuando se escuchen sus voces. Hasta entonces, el pueblo seguirá luchando, en memoria de los que vinieron antes y en nombre de los que vendrán, por el derecho a la vida digna en Guatemala. <span style="font-size: 10px; vertical-align: middle;">&#x2666; </span>
 
 
 
